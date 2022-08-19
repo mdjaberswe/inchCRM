@@ -1,0 +1,13 @@
+@import url('animate.min.css');
+
+.animated
+{
+	-webkit-animation-duration: 0.7s;
+	animation-duration: 0.7s;
+}
+
+.animated.lazy
+{
+	-webkit-animation-duration: 1.5s;
+	animation-duration: 1.5s;
+}

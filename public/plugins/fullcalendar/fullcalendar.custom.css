@@ -1,0 +1,166 @@
+@import url('fullcalendar.min.css');
+
+.fc-view-container table
+{
+
+}
+
+.fc-center h2
+{
+	font-size: 15px;
+	line-height: 1.35;
+}
+
+.fc th
+{
+	font-weight: normal;
+}
+
+.fc-unthemed .fc-content, 
+.fc-unthemed .fc-divider, 
+.fc-unthemed .fc-list-heading td, 
+.fc-unthemed .fc-list-view, 
+.fc-unthemed .fc-popover, 
+.fc-unthemed .fc-row, 
+.fc-unthemed tbody, 
+.fc-unthemed td, 
+.fc-unthemed th, 
+.fc-unthemed thead
+{
+	border-color: rgba(0, 0, 0, 0.125);
+}
+
+.fc-head-container thead tr
+{
+    background-color: rgba(0, 0, 0, 0);
+    background-image: -webkit-linear-gradient(top left, rgba(0, 0, 0, 0.125), rgba(0, 0, 0, 0.025));
+    background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.125), rgba(0, 0, 0, 0.025));
+    background-size: 100%;
+}
+
+.fc-head-container thead tr th
+{
+	text-transform: uppercase;
+	padding: 5px;
+}
+
+.fc-day-top.fc-other-month
+{
+	opacity: 0.5;
+}
+
+.fc-unthemed td.fc-today
+{
+	background: rgba(0, 0, 0, 0.25);
+}
+
+.fc-event, 
+.fc-event-dot
+{
+    background: rgba(0, 0, 0, 0.1);
+    background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.095));
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.095));
+    border-width: 0;
+    border-radius: 0;
+    margin-bottom: 3px;
+    font-weight: normal;
+    padding: 3px;
+}
+
+.fc-event
+{
+	line-height: 1.35;
+}
+
+.fc-ltr .fc-h-event.fc-not-start, 
+.fc-rtl .fc-h-event.fc-not-end
+{
+	padding: 3px;
+	margin-left: 2px;
+}
+
+.fc-day-grid-event .fc-time
+{
+	font-weight: normal;
+}
+
+a.fc-more
+{
+	color: rgba(255, 255, 255, 1);
+}
+
+a.fc-more:hover
+{
+	color: rgba(255, 255, 255, 1);
+}
+
+.fc button
+{
+	padding: 0 13px;
+}
+
+.fc button.fc-prev-button,
+.fc button.fc-next-button
+{
+	padding: 0 8px;
+}
+
+.fc-state-default
+{
+	color: rgba(255, 255, 255, 0.95);
+    text-shadow: none;
+    box-shadow: none;
+    border: 1px solid rgba(0, 0, 0, 0.075);
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: -webkit-linear-gradient(top left, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.125));
+    background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.125));
+    text-transform: capitalize;
+}
+
+.fc-state-default.fc-corner-left,
+.fc-state-default.fc-corner-right
+{
+	border-radius: 0;
+}
+
+.fc-state-active
+{
+	background-color: rgba(0, 0, 0, 0);
+	background-image: -webkit-linear-gradient(top left, rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0.25));
+	background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.375), rgba(0, 0, 0, 0.25));
+}
+
+.fc-state-hover
+{
+	background-position: 0;
+	background-color: rgba(0, 0, 0, 0);
+	background-image: -webkit-linear-gradient(top left, rgba(0, 0, 0, 0.275), rgba(0, 0, 0, 0.25));
+	background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.275), rgba(0, 0, 0, 0.25));
+}
+
+.fc-unthemed .fc-popover
+{
+	color: rgba(255, 255, 255, 1);
+	border: 1px solid rgba(255, 255, 255, 0.45);
+	background: rgba(0, 0, 0, 1);
+}
+
+.fc-unthemed .fc-popover .fc-event, 
+.fc-unthemed .fc-popover .fc-event-dot
+{
+	background: rgba(30, 30, 30, 0.45);
+}
+
+.fc-highlight
+{
+    background: rgba(0, 0, 0, 0.15);
+    opacity: 1;
+}    
+
+.fc-unthemed .fc-divider, 
+.fc-unthemed .fc-list-heading td, 
+.fc-unthemed .fc-popover .fc-header
+{
+	background: rgba(30, 30, 30, 0.125);
+}

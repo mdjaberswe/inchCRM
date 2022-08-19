@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-campaigns', ['member' => $contact, 'member_type' => 'contact', 'member_id' => $contact->id])

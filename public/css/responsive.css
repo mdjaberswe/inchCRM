@@ -1,0 +1,7172 @@
+body
+{
+    font-size: 13px;
+}
+
+.xs-center-sm-left
+{
+    text-align: left;
+}
+
+.xs-center-sm-right
+{
+    text-align: right;
+}
+
+.xs-left-sm-right
+{
+    text-align: right;
+}
+
+.next-action
+{
+    float: right;
+}
+
+.float-sm-auto-md-right
+{
+    float: right;
+    margin: 0 auto;
+}
+
+.padd-top-xs-0-md-30
+{
+    padding-top: 30px;
+}
+
+.padd-right-xs-15-md-0
+{
+    padding-right: 0;
+}
+
+.display-lim-lg
+{
+    display: block;
+}
+
+.display-lim-md
+{
+    display: block;
+}
+
+.display-lim-sm
+{
+    display: block;
+}
+
+.display-lim-xs
+{
+    display: block;
+}
+
+.display-lim-xxs
+{
+    display: block;
+}
+
+.hide-lim-lg
+{
+    display: block;
+}
+
+.hide-lim-md
+{
+    display: none;
+}
+
+.hide-lim-sm
+{
+    display: none;
+}
+
+.hide-lim-xs
+{
+    display: none;
+}
+
+.hide-lim-xxs
+{
+    display: none;
+}
+
+.title-type-a
+{
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 0 20px 0;
+    padding: 20px;
+}
+
+.btn
+{
+    font-size: 13px;
+    padding: 8px 20px;
+}
+
+.tooltip-inner
+{
+    font-size: 12px;
+}
+
+.select-type-a
+{
+    padding: 0 17px 0 5px;
+    height: 34px;
+    margin-top: 0;
+}
+
+.table-responsive
+{
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+
+.table-responsive.zero-distance
+{
+    margin: 0;
+}
+
+.filter-table
+{
+    margin-top: 0;
+    margin-bottom: -10px;
+}
+
+.filter-table form
+{
+    width: 100%;
+    padding-left: 65px;
+    padding-bottom: 0;
+}
+
+.filter-table form select
+{
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+
+.filter-table form select.limit
+{
+    top: 0;
+    bottom: auto;
+    left: 0;
+}
+
+.filter-table form .select2
+{
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+
+.filter-table form input
+{
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+
+.filter-table form .btn-group
+{
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+
+
+.filter-table form :last-child
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.radio-filter
+{
+    margin-top: 0;
+}
+
+.filter-table .btn
+{
+    padding: 0 15px;
+    min-width: 100px;
+    height: 34px;
+    line-height: 34px;
+}
+
+input[type='text']
+{
+    padding: 7px 10px;
+    height: 34px;
+    line-height: 20px;
+}
+
+.filter-table input[type='text']
+{
+    width: 20%;
+    min-width: 185px;
+    max-width: 210px;
+}
+
+input.search
+{
+    padding-right: 13%;
+}
+
+table.table
+{
+    margin: 20px 0 0 0;   
+}
+
+.zero-distance table.table
+{
+    margin: 0;
+}
+
+table.table thead th
+{
+    padding: 15px 10px;
+}
+
+table.table th.action-1
+{
+    min-width: 40px;
+}
+
+table.table th.action-2
+{
+    min-width: 55px;
+    width: 55px!important;
+    max-width: 55px!important;    
+}
+
+table.table th.action-3
+{
+    min-width: 120px;
+}
+
+table.table th.action-4
+{
+    min-width: 140px;
+}
+
+table.table tr td
+{
+    padding: 10px;
+}
+
+table.table td .shadow
+{
+    font-size: 11px;
+}
+ 
+table.table td .progress
+{
+    height: 8px;
+    width: 100%;
+    min-width: 70px;
+    max-width: 80px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+table.table td .tbl-btn
+{
+    width: 26px;
+    height: 26px;
+    margin: 0 5px;
+}
+
+table.table td .tbl-btn i
+{
+    line-height: 25px;
+    font-size: 15px;
+}
+
+table.table td .tbl-btn i.lg
+{
+    font-size: 23px;
+}
+
+table.table td .tbl-btn i.sm
+{
+    font-size: 13px;
+}
+
+.table-bottom
+{
+    margin-bottom: 20px;
+}
+
+.table-info
+{
+    padding-top: 7px;
+    padding-bottom: 0;
+    text-align: left;	    
+}
+
+.pagination
+{
+    margin: 0;
+    float: right;
+}
+
+.pagination > li > a,
+.pagination > li > span
+{
+    margin: 0 0 0 2px;
+}
+
+.modal-dialog
+{
+    margin-top: 7.5%;
+}
+
+.modal.large .modal-dialog
+{
+    min-width: 850px;
+}
+
+.modal.medium .modal-dialog
+{
+    min-width: 700px;
+}
+
+.modal-title
+{
+    font-size: 15px;
+}
+
+.modal-header
+{
+    width: 100%;
+}
+
+.modal-body
+{
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+
+.form-type-a .modal-body
+{
+    max-height: 485px;
+    overflow-y: auto;
+    padding: 20px 5px 0 5px;
+}
+
+.form-type-a .modal-body.vertical
+{
+    padding-top: 15px;
+}
+
+.modal-footer.space
+{
+    padding-right: 15px;
+}
+
+.modal-footer
+{
+    width: 100%;
+}
+
+.alert
+{
+    width: 100%;
+    padding: 15px 15px 15px 50px;
+    margin-bottom: 20px;
+    word-spacing: 2px;
+    font-size: 14px;
+}
+
+.alert span.fa
+{
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 100%;
+    padding-top: 13px;
+    font-size: 20px;
+}
+
+.form-type-a .form-group
+{
+    width: 100%;
+}
+
+.form-type-a label
+{
+    font-size: 13px;
+    text-align: right;
+    padding-top: 7px;
+}
+
+.form-type-a .form-control
+{
+    font-size: 13px;
+    padding: 6px 10px!important;
+}
+
+.form-type-a textarea
+{
+    height: 80px;
+}
+
+.form-type-a .inline-input
+{
+    padding: 3px 10px 0 10px!important;
+    min-height: 34px;
+    line-height: 22px;
+    width: 100%;
+}
+
+.form-type-a .inline-input span
+{
+    margin-bottom: 7px;
+    margin-right: 20px;
+    padding-right: 3px;
+}
+
+.form-type-a .inline-input span input
+{
+    margin: 5px 5px 0 0;
+}
+
+.form-type-a .validation-error
+{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.form-type-b
+{
+    width: 100%;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+.form-type-b .form-group
+{
+    width: 100%;
+}
+
+.form-type-b .form-group:last-child
+{
+    margin-bottom: 0;
+}
+
+.form-type-b .form-group:first-child
+{
+	margin-bottom: 15px;
+}
+
+.form-type-b label
+{
+    font-size: 13px;
+    text-align: right;
+}
+
+.form-type-b .inline-input
+{
+    padding: 7px 10px 0 10px!important;
+    min-height: 36px;
+    line-height: 22px;
+    width: 100%;
+}
+
+.form-type-b .inline-input span
+{
+    margin-bottom: 7px;
+    margin-right: 20px;
+    padding-right: 3px;
+}
+
+.form-type-b .inline-input span input
+{
+    margin: 5px 5px 0 0;
+}
+
+.form-type-b input.form-control,
+.form-type-b textarea.form-control
+{
+    font-size: 13px;
+    padding: 7px 10px!important;
+    height: 36px;
+    line-height: 22px;
+}
+
+.form-type-b.font-md input.form-control,
+.form-type-b.font-md textarea.form-control,
+.form-type-b.font-md .inline-input
+{
+    font-size: 14px;
+}
+
+.form-type-b select
+{
+    font-size: 13px;
+    padding: 7px 10px!important;
+    height: 36px;
+    line-height: 22px;  
+}
+
+.form-type-b.font-md select
+{
+    font-size: 14px;
+}
+
+.form-type-b textarea
+{
+    min-height: 80px;
+}
+
+.form-type-b input[type='file']
+{
+    font-size: 13px;
+    line-height: 1.42857;
+    padding: 8px 12px;
+    width: 100%;
+}
+
+.form-type-b .validation-error
+{
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+.form-type-b .btn
+{
+    margin-right: 9px;
+}
+
+.div-type-info
+{
+    padding: 0 0 0 15px!important;
+}
+
+.div-type-a
+{
+    padding: 0;
+}
+
+.div-panel-header
+{
+    padding: 10px 0 5px 0;
+}
+
+.div-type-c
+{
+	padding-top: 20px;
+	padding-bottom: 3px;
+	min-height: 50px;
+}
+
+.div-type-d
+{
+	padding-top: 20px;
+	padding-bottom: 3px;
+	min-height: 50px;
+}
+
+.div-type-e
+{
+	width: 195px;
+	padding: 10px 5px 0 5px;
+	min-height: 20px;
+	top: 100%;
+	left: 15px;
+}	
+
+.div-type-e.double
+{
+   width: 340px; 
+}
+
+.div-type-f
+{
+    width: 47%;
+    margin: 0 1.5% 10px 1.5%;
+}
+
+.div-type-g
+{
+    width: 96%;
+    margin: 0 2% 10px 2%;
+}
+
+.div-type-m
+{
+    padding: 0 15px;
+}
+
+.div-type-n
+{
+    margin-bottom: 0;
+}
+
+.div-type-p
+{
+    margin-top: 36px;
+    margin-bottom: 20px;
+}
+
+.div-double-input
+{
+    padding: 0 10px 0 0;
+}
+
+.div-double-input.triple
+{
+    padding: 0 5px 0 5px;
+}
+
+.div-double-input:last-child
+{
+    padding: 0 0 0 10px;
+}
+
+.div-double-input .full
+{
+    margin-bottom: 0;
+}
+
+.line-input .div-double-input .form-control
+{
+    border-right-width: 0;
+}
+
+.line-input .div-double-input:last-child .form-control,
+.line-input .div-double-input.last .form-control
+{
+    border-right-width: 1px;
+    border-left-width: 0;
+}
+
+.right-top
+{
+    top: 10px;
+    right: 15px;
+}
+
+header
+{
+    top: 0;
+    left: auto;
+    width: 100%;
+}
+
+#logo
+{
+    height: 51px;
+    width: 15.75%;
+    padding: 0;
+}
+
+#logo.compress
+{
+	width: 2.7%;
+}
+
+.logo-txt
+{
+    font-size: 17px;
+    line-height: 51px;
+    height: 51px;
+    width: 100%;
+    letter-spacing: 1px;
+    text-indent: 0;
+}
+
+#logo.compress .logo-txt
+{
+    display: none;
+}
+
+.menu-toggler
+{
+    bottom: 0;
+    right: 0;
+    line-height: 51px;
+    padding: 0 10px;
+    display: initial;
+}
+
+#logo.compress .menu-toggler
+{
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
+
+.menu-toggler i
+{
+    font-size: 14px;
+}
+
+.mob-menu-toggler
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    line-height: 51px;
+    padding: 0 10px;
+    width: auto;
+    display: none;    
+}
+
+.mob-menu-toggler i
+{
+	font-size: 14px;
+}
+
+#top-nav
+{
+	width: 84.25%;
+}
+
+#top-nav.expand
+{
+	width: 97%;
+}
+
+#top-nav .btn-group
+{
+    width: auto;
+}
+
+#top-nav .btn-group .nav-link
+{
+    width: auto;
+}  
+
+#top-nav .btn-group
+{
+    width: auto;
+}
+
+#top-nav .btn-group .nav-link
+{
+    width: auto;
+}   
+
+#top-nav .dropdown-menu
+{
+    right: 0!important;
+    left: auto!important;
+    font-size: 13px;
+    padding: 0;
+}
+
+#top-nav .dropdown-menu .divider
+{
+    height: 1px;
+    margin: 5px 0;
+}
+
+#top-nav .dropdown-menu li a
+{
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#top-nav .dropdown-menu li a i
+{
+    margin-right: 10px;
+}
+
+#top-nav .nav-link
+{
+    line-height: 51px;
+    height: 51px;
+    width: auto;
+    padding: 0 17px;
+}
+
+#top-nav a i.pe-2x
+{
+    font-size: 20px;
+}
+
+.nav-link.expand
+{
+    display: block;
+}
+
+.expand i
+{
+    font-size: 14px;
+}
+
+#top-nav .nav-link p
+{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.me
+{
+    font-size: 14px;
+}
+
+.me span
+{
+    display: initial;
+}
+
+.me img
+{
+    width: 32px;
+    height: 32px;
+}
+
+.task
+{
+    display: block;
+}
+
+.task .time
+{
+    font-size: 15px;
+    padding-right: 20px;
+    margin-right: 15px;
+}
+
+.task .time span
+{
+    font-size: 11px;
+    top: -2px;
+    right: 0;
+}
+
+.task .task-count
+{
+    font-size: 11px;
+}
+
+.task .task-count i
+{
+    margin-right: 5px;
+    font-size: 13px;
+}
+
+.notification-signal
+{
+    width: 18px;
+    height: 18px;
+    top: 5px;
+    right: 5px;
+    font-size: 11px;  
+    line-height: 17px;
+}
+
+.notification-signal:after
+{
+    top: 0;
+    right: 0;
+    width: 18px;
+    height: 18px;
+}
+
+nav
+{
+	width: 15.75%;
+    top: 51px;
+    left: 0;
+}
+
+nav.show
+{
+	top: 51px;
+	left: 0;
+}	
+
+nav ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li
+{
+    width: 100%;
+}
+
+nav ul li.heading
+{
+    padding: 0 0 0 10px;
+    height: 42px;
+    line-height: 42px;    
+    font-size: 14px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+nav ul li a
+{
+    padding: 0;
+    text-indent: 40px;
+    line-height: 42px;
+    font-size: 15px;  
+}
+
+nav ul li a i.fa
+{
+    font-size: 17px;
+    line-height: 41px;
+    height: 41px;
+    padding: 0 9px;
+    text-indent: 0;
+    top: 0;
+    left: 0;
+}
+
+nav ul li a i.fa.mdi
+{
+    font-size: 24px;
+    padding: 0 5.75px 0 7px;
+}
+
+nav ul li a i.fa.fa-sm
+{
+    font-size: 15px;
+}
+
+nav ul li a i.fa.fa-md
+{
+    font-size: 21px;
+}
+
+nav ul li a i.fa.fa-lg
+{
+    font-size: 26px;
+}
+
+nav ul li a .tag
+{
+    font-size: 11px;
+    text-indent: 0;
+    line-height: 21px;
+    padding: 0 7px;
+    margin-left: 7px;
+}
+
+nav ul li a span.fa
+{
+    font-size: 14px;
+    text-indent: 0;
+    top: 11px;
+    right: 10px;
+    line-height: 21px;
+}
+
+nav ul li ul li a
+{
+    line-height: 37px;
+    font-size: 13px;
+}
+
+nav ul li ul li a i.fa
+{
+    font-size: 11px;
+    line-height: 36px;
+    height: 36px;
+    padding: 0 9px;
+    top: 0;
+    left: 0;
+}
+
+nav ul li ul li a span.fa
+{
+    top: 10px;
+    right: 10px;
+    line-height: 15px;
+}
+
+nav.compress
+{
+    width: 205px;
+    top: 51px;
+    left: 0;
+}
+
+nav.compress ul
+{
+    width: 40px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+nav.compress ul li
+{
+    width: 100%;
+    min-height: 39px;
+}
+
+nav.compress ul li:hover
+{
+    width: 205px;
+}
+
+nav.compress ul li.heading
+{
+    padding: 0 0 0 10px;
+    height: 39px;
+    line-height: 39px;    
+    font-size: 13px;
+}
+
+nav.compress ul li a
+{
+    padding: 0;    
+    text-indent: -999px;
+    line-height: 39px;
+    font-size: 14px;  
+}
+
+nav.compress ul li a::after
+{
+    bottom: 0;
+    left: 0;
+    height: 0;
+    width: 100%;
+}
+
+nav.compress ul li:hover a
+{
+    width: 205px;
+    top: 0;
+    left: 0;
+    text-indent: 50px;
+}
+
+nav.compress ul li a i.fa
+{
+    font-size: 17px;
+    line-height: 39px;
+    height: 39px;
+    padding: 0;
+    text-indent: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+nav.compress ul li:hover a i.fa
+{
+   width: 40px;
+}
+
+nav.compress ul li a .tag
+{
+    font-size: 11px;
+    text-indent: 0;
+    line-height: 21px;
+    padding: 0 7px;
+    margin-left: 7px;
+}
+
+nav.compress ul li a span.fa
+{
+    font-size: 14px;
+    text-indent: 0;
+    top: 10px;
+    right: 10px;
+    line-height: 17px;
+}
+
+nav.compress ul li ul
+{
+    top: 39px;
+    right: 0;
+    width: 165px;
+    height: auto;
+}
+
+nav.compress ul li ul li
+{
+    width: 100%;
+    min-height: 36px;
+}
+
+nav.compress ul li ul li:hover
+{
+    width: 100%;
+}
+
+nav.compress ul li ul li a
+{
+    padding: 0;    
+    text-indent: 40px;
+    line-height: 37px;
+    font-size: 13px;
+    width: 100%;
+}
+
+nav.compress ul li:hover ul li a
+{
+    width: 100%;
+    text-indent: 40px;
+}
+
+nav.compress ul li:hover ul li:hover a
+{
+    width: 100%;
+    text-indent: 40px;
+}
+
+nav.compress ul li ul li a::after
+{
+    bottom: 0;
+    left: 0;
+    height: 1px;
+    width: 100%;
+}
+
+nav.compress ul li ul li a i.fa
+{
+    font-size: 11px;
+    line-height: 36px;
+    height: 36px;
+    padding: 0 9px;
+    top: 0;
+    left: 0;
+    text-indent: 0;
+    width: auto;
+}
+
+nav.compress ul li:hover ul li a i.fa
+{
+    width: auto;
+}
+
+nav.compress ul li ul li:hover a i.fa
+{
+    width: auto;
+}
+
+nav.compress ul li ul li a span.fa
+{
+    top: 10px;
+    right: 10px;
+    line-height: 15px;
+}
+
+main
+{
+    width: 84.25%;
+    margin-left: 15.75%;    
+    padding: 71px 20px 20px 20px;
+}
+
+main.shadow
+{
+    opacity: 1;
+}
+
+main.expand
+{
+    width: 97%;
+    margin-left: 3%;  
+}
+
+main .row
+{
+    margin: 0 0 20px 0;
+}
+
+main .row:last-child
+{
+    margin: 0;
+}
+
+main .row.single
+{
+    margin-bottom: 0;
+}
+
+#content-loader
+{
+    top: 45%;
+    left: 55%;
+}
+
+/* Desktop Layout: 992px
+-------------------------*/
+@media only screen and (min-width: 992px) and (max-width: 1299px)
+{
+	body
+	{
+	    font-size: 13px;
+	}
+
+    .xs-center-sm-left
+    {
+        text-align: left;
+    }
+
+    .xs-center-sm-right
+    {
+        text-align: right;
+    }
+
+    .xs-left-sm-right
+    {
+        text-align: right;
+    }
+
+    .next-action
+    {
+        float: right;
+    }
+
+    .float-sm-auto-md-right
+    {
+        float: right;
+        margin: 0 auto;
+    }
+
+    .padd-top-xs-0-md-30
+    {
+        padding-top: 30px;
+    }
+
+    .padd-right-xs-15-md-0
+    {
+        padding-right: 0;
+    }
+
+    .display-lim-lg
+    {
+        display: none;
+    }
+
+    .display-lim-md
+    {
+        display: block;
+    }
+
+    .display-lim-sm
+    {
+        display: block;
+    }
+
+    .display-lim-xs
+    {
+        display: block;
+    }
+
+    .display-lim-xxs
+    {
+        display: block;
+    }
+
+    .hide-lim-lg
+    {
+        display: block;
+    }
+
+    .hide-lim-md
+    {
+        display: block;
+    }
+
+    .hide-lim-sm
+    {
+        display: none;
+    }
+
+    .hide-lim-xs
+    {
+        display: none;
+    }
+
+    .hide-lim-xxs
+    {
+        display: none;
+    }
+
+	.title-type-a
+	{
+	    font-size: 14px;
+        line-height: 20px;
+	    margin: 0 0 20px 0;
+	    padding: 20px;
+	}
+
+	.btn
+	{
+	    font-size: 13px;
+	    padding: 8px 15px;
+	}
+
+	.tooltip-inner
+	{
+	    font-size: 12px;
+	}
+
+	.select-type-a
+	{
+	    padding: 0 17px 0 5px;
+	    height: 34px;
+	    margin-top: 0;
+	}
+
+	.table-responsive
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	}
+
+    .table-responsive.zero-distance
+    {
+        margin: 0;
+    }
+
+	.filter-table
+	{
+	    margin-top: 0;
+	    margin-bottom: -10px;
+	}
+
+	.filter-table form
+	{
+	    width: 100%;
+	    padding-left: 65px;
+	    padding-bottom: 0;
+	}
+
+	.filter-table form select
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form select.limit
+	{
+	    top: 0;
+	    bottom: auto;
+	    left: 0;
+	}
+
+	.filter-table form .select2
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form input
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form .btn-group
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+
+	.filter-table form :last-child
+	{
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+
+	.radio-filter
+	{
+	    margin-top: 0;
+	}
+
+	.filter-table .btn
+	{
+	    padding: 0 15px;
+	    min-width: 100px;
+	    height: 34px;
+	    line-height: 34px;
+	}
+
+	input[type='text']
+	{
+	    padding: 7px 10px;
+	    height: 34px;
+	    line-height: 20px;
+	}
+
+	.filter-table input[type='text']
+	{
+	    width: 20%;
+	    min-width: 165px;
+	    max-width: 180px;
+	}
+
+	input.search
+	{
+	    padding-right: 13%;
+	}
+
+	table.table
+	{
+	    margin: 20px 0 0 0;   
+	}
+
+    .zero-distance table.table
+    {
+        margin: 0;
+    }
+
+	table.table thead th
+	{
+	    padding: 15px 10px;
+	}
+
+	table.table th.action-1
+	{
+	    min-width: 40px;
+	}
+
+	table.table th.action-2
+	{
+	    min-width: 55px;
+        width: 55px!important;
+        max-width: 55px!important;
+	}
+
+	table.table th.action-3
+	{
+	    min-width: 120px;
+	}
+
+    table.table th.action-4
+    {
+        min-width: 140px;
+    }
+
+	table.table tr td
+	{
+	    padding: 10px;
+	}
+
+	table.table td .shadow
+	{
+	    font-size: 11px;
+	}
+	 
+	table.table td .progress
+	{
+	    height: 8px;
+	    width: 100%;
+	    min-width: 70px;
+        max-width: 80px;
+	    margin-top: 8px;
+	    margin-bottom: 8px;
+	}
+
+	table.table td .tbl-btn
+	{
+	    width: 26px;
+	    height: 26px;
+	    margin: 0 5px;
+	}
+
+	table.table td .tbl-btn i
+	{
+	    line-height: 25px;
+	    font-size: 15px;
+	}
+
+	table.table td .tbl-btn i.lg
+	{
+	    font-size: 23px;
+	}
+
+	table.table td .tbl-btn i.sm
+	{
+	    font-size: 13px;
+	}
+
+	.table-bottom
+	{
+	    margin-bottom: 20px;
+	}
+
+	.table-info
+	{
+	    padding-top: 7px;
+	    padding-bottom: 0;
+	    text-align: left;	    
+	}
+
+	.pagination
+	{
+	    margin: 0;
+	    float: right;
+	}
+
+	.pagination > li > a,
+	.pagination > li > span
+	{
+	    margin: 0 0 0 2px;
+	}
+
+	.modal-dialog
+	{
+	    margin-top: 7.5%;
+	}
+
+	.modal.large .modal-dialog
+	{
+	    min-width: 850px;
+	}
+
+    .modal.medium .modal-dialog
+    {
+        min-width: 700px;
+    }
+
+	.modal-title
+	{
+	    font-size: 15px;
+	}
+
+	.modal-header
+	{
+	    width: 100%;
+	}
+
+	.modal-body
+	{
+	    padding-left: 0;
+	    padding-right: 0;
+	    width: 100%;
+	}
+
+    .form-type-a .modal-body
+    {
+        max-height: 485px;
+        overflow-y: auto;
+        padding: 20px 5px 0 5px;
+    }
+
+    .form-type-a .modal-body.vertical
+    {
+        padding-top: 15px;
+    }
+
+    .modal-footer.space
+    {
+        padding-right: 15px;
+    }
+
+	.modal-footer
+	{
+	    width: 100%;
+	}
+
+	.alert
+	{
+	    width: 100%;
+	    padding: 15px 15px 15px 50px;
+	    margin-bottom: 20px;
+	    word-spacing: 2px;
+	    font-size: 14px;
+	}
+
+	.alert span.fa
+	{
+	    top: 0;
+	    left: 0;
+	    width: 50px;
+	    height: 100%;
+	    padding-top: 13px;
+	    font-size: 20px;
+	}
+
+	.form-type-a .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-a label
+	{
+	    font-size: 13px;
+	    text-align: right;
+        padding-top: 7px;
+	}
+
+	.form-type-a .form-control
+	{
+	    font-size: 13px;
+	    padding: 6px 10px!important;
+	}
+
+	.form-type-a textarea
+	{
+	    height: 80px;
+	}
+
+    .form-type-a .inline-input
+    {
+        padding: 3px 10px 0 10px!important;
+        min-height: 34px;
+        line-height: 22px;
+        width: 100%;
+    }
+
+    .form-type-a .inline-input span
+    {
+        margin-bottom: 7px;
+        margin-right: 20px;
+        padding-right: 3px;
+    }
+
+    .form-type-a .inline-input span input
+    {
+        margin: 5px 5px 0 0;
+    }
+
+	.form-type-a .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	    padding: 0;
+	}
+
+	.form-type-b .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-b .form-group:last-child
+	{
+	    margin-bottom: 0;
+	}
+
+	.form-type-b .form-group:first-child
+	{
+		margin-bottom: 15px;
+	}
+
+	.form-type-b label
+	{
+	    font-size: 13px;
+	    text-align: right;
+	}
+
+	.form-type-b .inline-input
+	{
+	    padding: 7px 10px 0 10px!important;
+	    min-height: 36px;
+	    line-height: 22px;
+	    width: 100%;
+	}
+
+	.form-type-b .inline-input span
+	{
+	    margin-bottom: 7px;
+	    margin-right: 20px;
+	    padding-right: 3px;
+	}
+
+	.form-type-b .inline-input span input
+	{
+	    margin: 5px 5px 0 0;
+	}
+
+	.form-type-b input.form-control,
+	.form-type-b textarea.form-control
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;
+	}
+
+    .form-type-b.font-md input.form-control,
+    .form-type-b.font-md textarea.form-control,
+    .form-type-b.font-md .inline-input
+    {
+        font-size: 14px;
+    }
+
+	.form-type-b select
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;  
+	}
+
+    .form-type-b.font-md select
+    {
+        font-size: 14px;
+    }
+
+	.form-type-b textarea
+	{
+	    min-height: 80px;
+	}
+
+	.form-type-b input[type='file']
+	{
+	    font-size: 13px;
+	    line-height: 1.42857;
+	    padding: 8px 12px;
+	    width: 100%;
+	}
+
+	.form-type-b .validation-error
+	{
+	    font-size: 13px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b .btn
+	{
+	    margin-right: 9px;
+	}
+
+	.div-type-info
+	{
+	    padding: 0 0 0 15px!important;
+	}
+
+	.div-type-a
+	{
+	    padding: 0;
+	}
+
+    .div-panel-header
+    {
+        padding: 10px 0 5px 0;
+    }
+
+	.div-type-c
+	{
+		padding-top: 20px;
+		padding-bottom: 3px;
+		min-height: 50px;
+	}
+
+	.div-type-d
+	{
+		padding-top: 20px;
+		padding-bottom: 3px;
+		min-height: 50px;
+	}
+
+	.div-type-e
+	{
+		width: 195px;
+		padding: 10px 5px 0 5px;
+		min-height: 20px;
+		top: 100%;
+		left: 15px;
+	}	
+
+	.div-type-e.double
+	{
+	   width: 340px; 
+	}
+
+	.div-type-f
+	{
+	    width: 47%;
+	    margin: 0 1.5% 10px 1.5%;
+	}
+
+	.div-type-g
+	{
+	    width: 96%;
+	    margin: 0 2% 10px 2%;
+	}
+
+    .div-type-m
+    {
+        padding: 0 15px;
+    }
+
+    .div-type-n
+    {
+        margin-bottom: 0;
+    }
+
+    .div-type-p
+    {
+        margin-top: 36px;
+        margin-bottom: 20px;
+    }
+
+    .div-double-input
+    {
+        padding: 0 10px 0 0;
+    }
+
+    .div-double-input.triple
+    {
+        padding: 0 5px 0 5px;
+    }
+
+    .div-double-input:last-child
+    {
+        padding: 0 0 0 10px;
+    }
+
+    .div-double-input .full
+    {
+        margin-bottom: 0;
+    }
+
+    .line-input .div-double-input .form-control
+    {
+        border-right-width: 0;
+    }
+
+    .line-input .div-double-input:last-child .form-control,
+    .line-input .div-double-input.last .form-control
+    {
+        border-right-width: 1px;
+        border-left-width: 0;
+    }
+
+	.right-top
+	{
+	    top: 10px;
+	    right: 15px;
+	}
+
+	header
+	{
+	    top: 0;
+	    left: auto;
+	    width: 100%;
+	}
+
+	#logo
+	{
+	    height: 51px;
+	    width: 18.5%;
+	    padding: 0;
+	}
+
+	#logo.compress
+	{
+	    width: 3.2%;
+	}
+
+	.logo-txt
+	{
+	    font-size: 17px;
+	    line-height: 51px;
+	    height: 51px;
+	    width: 100%;
+	    letter-spacing: 1px;
+	    text-indent: 0;
+	}
+
+	#logo.compress .logo-txt
+	{
+	    display: none;
+	}
+
+	.menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    display: initial;
+	}
+
+	#logo.compress .menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    width: 100%;
+	}
+
+	.menu-toggler i
+	{
+	    font-size: 14px;
+	}
+
+	.mob-menu-toggler
+	{
+	    position: absolute;
+	    bottom: 0;
+	    left: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    width: auto;
+	    display: none;    
+	}
+
+	.mob-menu-toggler i
+	{
+		font-size: 14px;
+	}
+
+	#top-nav
+	{
+	    width: 81.5%;
+	}
+
+	#top-nav.expand
+	{
+	    width: 96.5%;
+	}
+
+	#top-nav .btn-group
+	{
+	    width: auto;
+	}
+
+	#top-nav .btn-group .nav-link
+	{
+	    width: auto;
+	}  
+
+	#top-nav .btn-group
+	{
+	    width: auto;
+	}
+
+	#top-nav .btn-group .nav-link
+	{
+	    width: auto;
+	}   
+
+	#top-nav .dropdown-menu
+	{
+	    right: 0!important;
+	    left: auto!important;
+	    font-size: 13px;
+	    padding: 0;
+	}
+
+	#top-nav .dropdown-menu .divider
+	{
+	    height: 1px;
+	    margin: 5px 0;
+	}
+
+	#top-nav .dropdown-menu li a
+	{
+	    padding-top: 7px;
+	    padding-bottom: 7px;
+	}
+
+	#top-nav .dropdown-menu li a i
+	{
+	    margin-right: 10px;
+	}
+
+	#top-nav .nav-link
+	{
+	    line-height: 51px;
+	    height: 51px;
+	    width: auto;
+	    padding: 0 17px;
+	}
+
+	#top-nav a i.pe-2x
+	{
+	    font-size: 20px;
+	}
+
+	.nav-link.expand
+	{
+	    display: block;
+	}
+
+	.expand i
+	{
+	    font-size: 14px;
+	}
+
+	#top-nav .nav-link p
+	{
+	    margin-top: 0;
+	    margin-bottom: 0;
+	}
+
+	.me
+	{
+	    font-size: 14px;
+	}
+
+	.me span
+	{
+	    display: initial;
+	}
+
+	.me img
+	{
+	    width: 32px;
+	    height: 32px;
+	}
+
+	.task
+	{
+	    display: block;
+	}
+
+	.task .time
+	{
+	    font-size: 15px;
+	    padding-right: 20px;
+	    margin-right: 15px;
+	}
+
+	.task .time span
+	{
+	    font-size: 11px;
+	    top: -2px;
+	    right: 0;
+	}
+
+	.task .task-count
+	{
+	    font-size: 11px;
+	}
+
+	.task .task-count i
+	{
+	    margin-right: 5px;
+	    font-size: 13px;
+	}
+
+	.notification-signal
+	{
+	    width: 18px;
+	    height: 18px;
+	    top: 5px;
+	    right: 5px;
+	    font-size: 11px;  
+	    line-height: 17px;   
+	}
+
+	.notification-signal:after
+	{
+	    top: 0;
+	    right: 0;
+	    width: 18px;
+	    height: 18px;
+	}
+
+	nav
+	{
+	    width: 18.5%;
+	    top: 51px;
+	    left: 0;
+	}
+
+	nav.show
+	{
+		top: 51px;
+		left: 0;
+	}	
+
+	nav ul
+	{
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav ul li
+	{
+	    width: 100%;
+	}
+
+	nav ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 42px;
+	    line-height: 42px;    
+	    font-size: 14px;
+	    letter-spacing: 2px;
+	    word-spacing: 2px;
+	}
+
+	nav ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 42px;
+	    font-size: 14px;  
+	}
+
+	nav ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 41px;
+	    height: 41px;
+	    padding: 0 9px;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	}
+
+    nav ul li a i.fa.mdi
+    {
+        font-size: 24px;
+        padding: 0 5.75px 0 7px;
+    }
+
+	nav ul li a i.fa.fa-sm
+	{
+	    font-size: 15px;
+	}
+
+    nav ul li a i.fa.fa-md
+    {
+        font-size: 21px;
+    }
+
+    nav ul li a i.fa.fa-lg
+    {
+        font-size: 26px;
+    }
+
+	nav ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 11px;
+	    right: 10px;
+	    line-height: 21px;
+	}
+
+	nav ul li ul li a
+	{
+	    line-height: 37px;
+	    font-size: 13px;
+	}
+
+	nav ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	}
+
+	nav ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	nav.compress
+	{
+	    width: 205px;
+	    top: 51px;
+	    left: 0;
+	}
+
+	nav.compress ul
+	{
+	    width: 40px;
+	    height: 100%;
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav.compress ul li
+	{
+	    width: 100%;
+	    min-height: 39px;
+	}
+
+	nav.compress ul li:hover
+	{
+	    width: 205px;
+	}
+
+	nav.compress ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 39px;
+	    line-height: 39px;    
+	    font-size: 13px;
+	}
+
+	nav.compress ul li a
+	{
+	    padding: 0;    
+	    text-indent: -999px;
+	    line-height: 39px;
+	    font-size: 14px;  
+	}
+
+	nav.compress ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a
+	{
+	    width: 205px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 50px;
+	}
+
+	nav.compress ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 39px;
+	    height: 39px;
+	    padding: 0;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a i.fa
+	{
+	   width: 40px;
+	}
+
+	nav.compress ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav.compress ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 10px;
+	    right: 10px;
+	    line-height: 17px;
+	}
+
+	nav.compress ul li ul
+	{
+	    top: 39px;
+	    right: 0;
+	    width: 165px;
+	    height: auto;
+	}
+
+	nav.compress ul li ul li
+	{
+	    width: 100%;
+	    min-height: 36px;
+	}
+
+	nav.compress ul li ul li:hover
+	{
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 37px;
+	    font-size: 13px;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover ul li a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li:hover ul li:hover a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 1px;
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 0;
+	    width: auto;
+	}
+
+	nav.compress ul li:hover ul li a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li:hover a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	main
+	{
+	    width: 81.5%;
+	    margin-left: 18.5%;    
+	    padding: 71px 20px 20px 20px;
+	}
+
+	main.shadow
+	{
+	    opacity: 1;
+	}
+
+	main.expand
+	{
+	    width: 96.5%;
+	    margin-left: 3.5%;    
+	}
+
+	main .row
+	{
+	    margin: 0 0 20px 0;
+	}
+
+	main .row:last-child
+	{
+	    margin: 0;
+	}
+
+    main .row.single
+    {
+        margin-bottom: 0;
+    }
+
+	#content-loader
+	{
+	    top: 45%;
+	    left: 55%;
+	}
+}
+
+/* Tablet Layout: 768px
+------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{
+	body
+	{
+	    font-size: 13px;
+	}
+
+    .xs-center-sm-left
+    {
+        text-align: left;
+    }
+
+    .xs-center-sm-right
+    {
+        text-align: right;
+    }
+
+    .xs-left-sm-right
+    {
+        text-align: right;
+    }
+
+    .next-action
+    {
+        float: left;
+    }
+
+    .float-sm-auto-md-right
+    {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .padd-top-xs-0-md-30
+    {
+        padding-top: 0;
+    }
+
+    .padd-right-xs-15-md-0
+    {
+        padding-right: 15px;
+    }
+
+    .display-lim-lg
+    {
+        display: none;
+    }
+
+    .hide-lim-lg
+    {
+        display: block;
+    }
+
+    .hide-lim-md
+    {
+        display: block;
+    }
+
+    .hide-lim-sm
+    {
+        display: block;
+    }
+
+    .hide-lim-xs
+    {
+        display: none;
+    }
+
+    .hide-lim-xxs
+    {
+        display: none;
+    }
+
+    .display-lim-md
+    {
+        display: none;
+    }
+
+    .display-lim-sm
+    {
+        display: block;
+    }
+
+    .display-lim-xs
+    {
+        display: block;
+    }
+
+    .display-lim-xxs
+    {
+        display: block;
+    }
+
+	.title-type-a
+	{
+	    font-size: 14px;
+        line-height: 20px;
+	    margin: 0 0 20px 0;
+	    padding: 20px;
+	}
+
+	.btn
+	{
+	    font-size: 13px;
+	    padding: 8px 15px;
+	}
+
+	.tooltip-inner
+	{
+	    font-size: 12px;
+	}
+
+	.select-type-a
+	{
+	    padding: 0 17px 0 5px;
+	    height: 34px;
+	    margin-top: 0;
+	}
+
+	.table-responsive
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	}
+
+    .table-responsive.zero-distance
+    {
+        margin: 0;
+    }
+
+	.filter-table
+	{
+	    margin-top: 0;
+	    margin-bottom: -10px;
+	}
+
+	.filter-table form
+	{
+	    width: 100%;
+	    padding-left: 65px;
+	    padding-bottom: 0;
+	}
+
+	.filter-table form select
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form select.limit
+	{
+	    top: 0;
+	    bottom: auto;
+	    left: 0;
+	}
+
+	.filter-table form .select2
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form input
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form .btn-group
+	{
+	    float: right;
+	    margin-left: 10px;
+	    margin-right: 0;
+	    margin-bottom: 10px;
+	}
+
+
+	.filter-table form :last-child
+	{
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+
+	.radio-filter
+	{
+	    margin-top: 0;
+	}
+
+	.filter-table .btn
+	{
+	    padding: 0 15px;
+	    min-width: 100px;
+	    height: 34px;
+	    line-height: 34px;
+	}
+
+	input[type='text']
+	{
+	    padding: 7px 10px;
+	    height: 34px;
+	    line-height: 20px;
+	}
+
+	.filter-table input[type='text']
+	{
+	    width: 30%;
+	    min-width: 165px;
+	    max-width: 180px;
+	}
+
+	input.search
+	{
+	    padding-right: 13%;
+	}
+
+	table.table
+	{
+	    margin: 20px 0 0 0;   
+	}
+
+    .zero-distance table.table
+    {
+        margin: 0;
+    }
+
+	table.table thead th
+	{
+	    padding: 15px 10px;
+	}
+
+	table.table th.action-1
+	{
+	    min-width: 40px;
+	}
+
+	table.table th.action-2
+	{
+	    min-width: 55px;
+        width: 55px!important;
+        max-width: 55px!important;
+	}
+
+	table.table th.action-3
+	{
+	    min-width: 120px;
+	}
+
+    table.table th.action-4
+    {
+        min-width: 140px;
+    }
+
+	table.table tr td
+	{
+	    padding: 10px;
+	}
+
+	table.table td .shadow
+	{
+	    font-size: 11px;
+	}
+	 
+	table.table td .progress
+	{
+	    height: 8px;
+	    width: 100%;
+	    min-width: 70px;
+        max-width: 80px;
+	    margin-top: 8px;
+	    margin-bottom: 8px;
+	}
+
+	table.table td .tbl-btn
+	{
+	    width: 26px;
+	    height: 26px;
+	    margin: 0 5px;
+	}
+
+	table.table td .tbl-btn i
+	{
+	    line-height: 25px;
+	    font-size: 15px;
+	}
+
+	table.table td .tbl-btn i.lg
+	{
+	    font-size: 23px;
+	}
+
+	table.table td .tbl-btn i.sm
+	{
+	    font-size: 13px;
+	}
+
+	.table-bottom
+	{
+	    margin-bottom: 20px;
+	}
+
+	.table-info
+	{
+	    padding-top: 7px;
+	    padding-bottom: 0;
+	    text-align: left;
+	}
+
+	.pagination
+	{
+	    margin: 0;
+	    float: right;
+	}
+
+	.pagination > li > a,
+	.pagination > li > span
+	{
+	    margin: 0 0 0 2px;
+	}
+
+	.modal-dialog
+	{
+	    margin-top: 10%;
+	}
+
+	.modal.large .modal-dialog
+	{
+	    min-width: 96%;
+	}
+
+    .modal.medium .modal-dialog
+    {
+        min-width: 96%;
+    }
+
+	.modal-title
+	{
+	    font-size: 15px;
+	}
+
+	.modal-header
+	{
+	    width: 100%;
+	}
+
+	.modal-body
+	{
+	    padding-left: 0;
+	    padding-right: 0;
+	    width: 100%;
+	}
+
+    .form-type-a .modal-body
+    {
+        max-height: none;
+        overflow-y: visible;
+        padding: 20px 5px 0 5px;
+    }
+
+    .form-type-a .modal-body.vertical
+    {
+        padding-top: 15px;
+    }
+
+    .modal-footer.space
+    {
+        padding-right: 15px;
+    }
+
+	.modal-footer
+	{
+	    width: 100%;
+	}
+
+	.alert
+	{
+	    width: 100%;
+	    padding: 15px 15px 15px 50px;
+	    margin-bottom: 20px;
+	    word-spacing: 2px;
+	    font-size: 14px;
+	}
+
+	.alert span.fa
+	{
+	    top: 0;
+	    left: 0;
+	    width: 50px;
+	    height: 100%;
+	    padding-top: 13px;
+	    font-size: 20px;
+	}
+
+	.form-type-a .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-a label
+	{
+	    font-size: 13px;
+	    text-align: right;
+        padding-top: 7px;
+	}
+
+	.form-type-a .form-control
+	{
+	    font-size: 13px;
+	    padding: 6px 10px!important;
+	}
+
+	.form-type-a textarea
+	{
+	    height: 80px;
+	}
+
+    .form-type-a .inline-input
+    {
+        padding: 3px 10px 0 10px!important;
+        min-height: 34px;
+        line-height: 22px;
+        width: 100%;
+    }
+
+    .form-type-a .inline-input span
+    {
+        margin-bottom: 7px;
+        margin-right: 20px;
+        padding-right: 3px;
+    }
+
+    .form-type-a .inline-input span input
+    {
+        margin: 5px 5px 0 0;
+    }
+
+	.form-type-a .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	    padding: 0;
+	}
+
+	.form-type-b .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-b .form-group:last-child
+	{
+	    margin-bottom: 0;
+	}
+
+	.form-type-b .form-group:first-child
+	{
+		margin-bottom: 15px;
+	}
+
+	.form-type-b label
+	{
+	    font-size: 13px;
+	    text-align: right;
+	}
+
+	.form-type-b .inline-input
+	{
+	    padding: 7px 10px 0 10px!important;
+	    min-height: 36px;
+	    line-height: 22px;
+	    width: 100%;
+	}
+
+	.form-type-b .inline-input span
+	{
+	    margin-bottom: 7px;
+	    margin-right: 20px;
+	    padding-right: 3px;
+	}
+
+	.form-type-b .inline-input span input
+	{
+	    margin: 5px 5px 0 0;
+	}
+
+	.form-type-b input.form-control,
+	.form-type-b textarea.form-control
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;
+	}
+
+    .form-type-b.font-md input.form-control,
+    .form-type-b.font-md textarea.form-control,
+    .form-type-b.font-md .inline-input
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b select
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;  
+	}
+
+    .form-type-b.font-md select
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b textarea
+	{
+	    min-height: 80px;
+	}
+
+	.form-type-b input[type='file']
+	{
+	    font-size: 13px;
+	    line-height: 1.42857;
+	    padding: 8px 12px;
+	    width: 100%;
+	}
+
+	.form-type-b .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b .btn
+	{
+	    margin-right: 9px;
+	}
+
+	.div-type-info
+	{
+	    padding: 0!important;
+	}
+
+	.div-type-a
+	{
+	    padding: 0;
+	}
+
+    .div-panel-header
+    {
+        padding: 10px 0 5px 0;
+    }
+
+	.div-type-c
+	{
+		padding-top: 20px;
+		padding-bottom: 3px;
+		min-height: 50px;
+	}
+
+	.div-type-d
+	{
+		padding-top: 20px;
+		padding-bottom: 3px;
+		min-height: 50px;
+	}
+
+	.div-type-e
+	{
+		width: 195px;
+		padding: 10px 5px 0 5px;
+		min-height: 20px;
+		top: 100%;
+		left: 15px;
+	}	
+
+	.div-type-e.double
+	{
+	   width: 100%; 
+	}
+
+	.div-type-f
+	{
+	    width: 47%;
+	    margin: 0 1.5% 10px 1.5%;
+	}
+
+	.div-type-g
+	{
+	    width: 96%;
+	    margin: 0 2% 10px 2%;
+	}
+
+    .div-type-m
+    {
+        padding: 0;
+    }
+
+    .div-type-n
+    {
+        margin-bottom: 0;
+    }
+
+    .div-type-p
+    {
+        margin-top: 36px;
+        margin-bottom: 20px;
+    }
+
+    .div-double-input
+    {
+        padding: 0 10px 0 0;
+    }
+
+    .div-double-input.triple
+    {
+        padding: 0 5px 0 5px;
+    }
+
+    .div-double-input:last-child
+    {
+        padding: 0 0 0 10px;
+    }
+
+    .div-double-input .full
+    {
+        margin-bottom: 0;
+    }
+
+    .line-input .div-double-input .form-control
+    {
+        border-right-width: 0;
+    }
+
+    .line-input .div-double-input:last-child .form-control,
+    .line-input .div-double-input.last .form-control
+    {
+        border-right-width: 1px;
+        border-left-width: 0;
+    }
+
+	.right-top
+	{
+	    top: 10px;
+	    right: 15px;
+	}
+
+	header
+	{
+	    top: 0;
+	    left: auto;
+	    width: 100%;
+	}
+
+	#logo
+	{
+	    height: 51px;
+	    width: 22%;
+	    padding: 0;
+	}
+
+	#logo.compress
+	{
+	    width: 3.7%;
+	}
+
+	.logo-txt
+	{
+	    font-size: 17px;
+	    line-height: 51px;
+	    height: 51px;
+	    width: 100%;
+	    letter-spacing: 1px;
+	    text-indent: 0;
+	}
+
+	#logo.compress .logo-txt
+	{
+	    display: none;
+	}
+
+	.menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    display: initial;
+	}
+
+	#logo.compress .menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    width: 100%;
+	}
+
+	.menu-toggler i
+	{
+	    font-size: 14px;
+	}
+
+	.mob-menu-toggler
+	{
+	    position: absolute;
+	    bottom: 0;
+	    left: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    width: auto;
+	    display: none;    
+	}
+
+	.mob-menu-toggler i
+	{
+		font-size: 14px;
+	}
+
+	#top-nav
+	{
+	    width: 78%;
+	}
+
+	#top-nav.expand
+	{
+	    width: 96%;
+	}
+
+	#top-nav .btn-group
+	{
+	    width: auto;
+	}
+
+	#top-nav .btn-group .nav-link
+	{
+	    width: auto;
+	}  
+
+	#top-nav .dropdown-menu
+	{
+	    right: 0!important;
+	    left: auto!important;
+	    font-size: 13px;
+	    padding: 0;
+	}
+
+	#top-nav .dropdown-menu .divider
+	{
+	    height: 1px;
+	    margin: 5px 0;
+	}
+
+	#top-nav .dropdown-menu li a
+	{
+	    padding-top: 7px;
+	    padding-bottom: 7px;
+	}
+
+	#top-nav .dropdown-menu li a i
+	{
+	    margin-right: 10px;
+	}
+
+	#top-nav .nav-link
+	{
+	    line-height: 51px;
+	    height: 51px;
+	    width: auto;
+	    padding: 0 17px;
+	}
+
+	#top-nav a i.pe-2x
+	{
+	    font-size: 20px;
+	}
+
+	.nav-link.expand
+	{
+	    display: block;
+	}
+
+	.expand i
+	{
+	    font-size: 14px;
+	}
+
+	#top-nav .nav-link p
+	{
+	    margin-top: 0;
+	    margin-bottom: 0;
+	}
+
+	.me
+	{
+	    font-size: 14px;
+	}
+
+	.me span
+	{
+	    display: initial;
+	}
+
+	.me img
+	{
+	    width: 32px;
+	    height: 32px;
+	}
+
+	.task
+	{
+	    display: block;
+	}
+
+	.task .time
+	{
+	    font-size: 15px;
+	    padding-right: 20px;
+	    margin-right: 15px;
+	}
+
+	.task .time span
+	{
+	    font-size: 11px;
+	    top: -2px;
+	    right: 0;
+	}
+
+	.task .task-count
+	{
+	    font-size: 11px;
+	}
+
+	.task .task-count i
+	{
+	    margin-right: 5px;
+	    font-size: 13px;
+	}
+
+	.notification-signal
+	{
+	    width: 18px;
+	    height: 18px;
+	    top: 5px;
+	    right: 5px;
+	    font-size: 11px;  
+	    line-height: 17px;   
+	}
+
+	.notification-signal:after
+	{
+	    top: 0;
+	    right: 0;
+	    width: 18px;
+	    height: 18px;
+	}
+
+	nav
+	{
+	    width: 22%;
+	    top: 51px;
+	    left: 0;
+	}
+
+	nav.show
+	{
+		top: 51px;
+		left: 0;
+	}	
+
+	nav ul
+	{
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav ul li
+	{
+	    width: 100%;
+	}
+
+	nav ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 42px;
+	    line-height: 42px;    
+	    font-size: 14px;
+	    letter-spacing: 2px;
+	    word-spacing: 2px;
+	}
+
+	nav ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 42px;
+	    font-size: 14px;  
+	}
+
+	nav ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 41px;
+	    height: 41px;
+	    padding: 0 9px;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	}
+
+    nav ul li a i.fa.mdi
+    {
+        font-size: 24px;
+        padding: 0 5.75px 0 7px;
+    }
+
+	nav ul li a i.fa.fa-sm
+	{
+	    font-size: 15px;
+	}
+
+    nav ul li a i.fa.fa-md
+    {
+        font-size: 21px;
+    }
+
+    nav ul li a i.fa.fa-lg
+    {
+        font-size: 26px;
+    }
+
+	nav ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 11px;
+	    right: 10px;
+	    line-height: 21px;
+	}
+
+	nav ul li ul li a
+	{
+	    line-height: 37px;
+	    font-size: 13px;
+	}
+
+	nav ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	}
+
+	nav ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	nav.compress
+	{
+	    width: 205px;
+	    top: 51px;
+	    left: 0;
+	}
+
+	nav.compress ul
+	{
+	    width: 40px;
+	    height: 100%;
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav.compress ul li
+	{
+	    width: 100%;
+	    min-height: 39px;
+	}
+
+	nav.compress ul li:hover
+	{
+	    width: 205px;
+	}
+
+	nav.compress ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 39px;
+	    line-height: 39px;    
+	    font-size: 13px;
+	}
+
+	nav.compress ul li a
+	{
+	    padding: 0;    
+	    text-indent: -999px;
+	    line-height: 39px;
+	    font-size: 14px;  
+	}
+
+	nav.compress ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a
+	{
+	    width: 205px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 50px;
+	}
+
+	nav.compress ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 39px;
+	    height: 39px;
+	    padding: 0;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a i.fa
+	{
+	   width: 40px;
+	}
+
+	nav.compress ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav.compress ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 10px;
+	    right: 10px;
+	    line-height: 17px;
+	}
+
+	nav.compress ul li ul
+	{
+	    top: 39px;
+	    right: 0;
+	    width: 165px;
+	    height: auto;
+	}
+
+	nav.compress ul li ul li
+	{
+	    width: 100%;
+	    min-height: 36px;
+	}
+
+	nav.compress ul li ul li:hover
+	{
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 37px;
+	    font-size: 13px;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover ul li a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li:hover ul li:hover a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 1px;
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 0;
+	    width: auto;
+	}
+
+	nav.compress ul li:hover ul li a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li:hover a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	main
+	{
+	    width: 78%;
+	    margin-left: 22%;    
+	    padding: 71px 20px 20px 20px;
+	}
+
+	main.shadow
+	{
+	    opacity: 1;
+	}
+
+	main.expand
+	{
+	    width: 96%;
+	    margin-left: 4%;    
+	}
+
+	main .row
+	{
+	    margin: 0 0 20px 0;
+	}
+
+	main .row:last-child
+	{
+	    margin: 0;
+	}
+
+    main .row.single
+    {
+        margin-bottom: 0;
+    }
+
+	#content-loader
+	{
+	    top: 45%;
+	    left: 55%;
+	}
+}
+
+/* Mini Mobile Layout: 240px
+-----------------------------*/
+@media only screen and (max-width: 319px)
+{
+	body
+	{
+	    font-size: 13px;
+	}
+
+    .xs-center-sm-left
+    {
+        text-align: center;
+    }
+
+    .xs-center-sm-right
+    {
+        text-align: center;
+    }
+
+    .xs-left-sm-right
+    {
+        text-align: left;
+    }
+
+    .next-action
+    {
+        float: left;
+    }
+
+    .float-sm-auto-md-right
+    {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .padd-top-xs-0-md-30
+    {
+        padding-top: 0;
+    }
+
+    .padd-right-xs-15-md-0
+    {
+        padding-right: 15px;
+    }
+
+    .display-lim-lg
+    {
+        display: none;
+    }
+
+    .display-lim-md
+    {
+        display: none;
+    }
+
+    .display-lim-sm
+    {
+        display: none;
+    }
+
+    .display-lim-xs
+    {
+        display: none;
+    }
+
+    .display-lim-xxs
+    {
+        display: block;
+    }
+
+    .hide-lim-lg
+    {
+        display: block;
+    }
+
+    .hide-lim-md
+    {
+        display: block;
+    }
+
+    .hide-lim-sm
+    {
+        display: block;
+    }
+
+    .hide-lim-xs
+    {
+        display: block;
+    }
+
+    .hide-lim-xxs
+    {
+        display: block;
+    }
+
+	.title-type-a
+	{
+	    font-size: 14px;
+        line-height: 20px;
+	    margin: 0 0 20px 0;
+	    padding: 20px;
+	}
+
+	.btn
+	{
+	    font-size: 13px;
+	    padding: 8px 13px;
+	}
+
+	.tooltip-inner
+	{
+	    font-size: 12px;
+	}
+
+	.select-type-a
+	{
+	    padding: 0 17px 0 5px;
+	    height: 34px;
+	    margin-top: 0;
+	}
+
+	.table-responsive
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	}
+
+    .table-responsive.zero-distance
+    {
+        margin: 0;
+    }
+
+	.filter-table
+	{
+	    margin-top: 0;
+	    margin-bottom: -10px;
+	}
+
+	.filter-table form
+	{
+	    width: 100%;
+	    padding-left: 0;
+	    padding-bottom: 44px;
+	}
+
+	.filter-table form select
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form select.limit
+	{
+	    top: auto;
+	    bottom: 0;
+	    left: 0;
+	}
+
+	.filter-table form .select2
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form input
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form .btn-group
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+
+	.filter-table form :last-child
+	{
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+
+	.radio-filter
+	{
+	    margin-top: 0;
+	}
+
+	.filter-table .btn
+	{
+	    padding: 0 15px;
+	    min-width: 70px;
+	    height: 34px;
+	    line-height: 34px;
+	}
+
+	input[type='text']
+	{
+	    padding: 7px 10px;
+	    height: 34px;
+	    line-height: 20px;
+	}
+
+	.filter-table input[type='text']
+	{
+	    width: 100%;
+	    min-width: 100%;
+	    max-width: 100%;
+	}
+
+	input.search
+	{
+	    padding-right: 13%;
+	}
+
+	table.table
+	{
+	    margin: 20px 0 0 0;    
+	}
+
+    .zero-distance table.table
+    {
+        margin: 0;
+    }
+
+	table.table thead th
+	{
+	    padding: 15px 10px;
+	}
+
+	table.table th.action-1
+	{
+	    min-width: 40px;
+	}
+
+	table.table th.action-2
+	{
+	    min-width: 55px;
+        width: 55px!important;
+        max-width: 55px!important;
+	}
+
+	table.table th.action-3
+	{
+	    min-width: 120px;
+	}
+
+    table.table th.action-4
+    {
+        min-width: 140px;
+    }
+
+	table.table tr td
+	{
+	    padding: 10px;
+	}
+
+	table.table td .shadow
+	{
+	    font-size: 11px;
+	}
+	 
+	table.table td .progress
+	{
+	    height: 8px;
+	    width: 100%;
+	    min-width: 70px;
+        max-width: 80px;
+	    margin-top: 8px;
+	    margin-bottom: 8px;
+	}
+
+	table.table td .tbl-btn
+	{
+	    width: 26px;
+	    height: 26px;
+	    margin: 0 5px;
+	}
+
+	table.table td .tbl-btn i
+	{
+	    line-height: 25px;
+	    font-size: 15px;
+	}
+
+	table.table td .tbl-btn i.lg
+	{
+	    font-size: 23px;
+	}
+
+	table.table td .tbl-btn i.sm
+	{
+	    font-size: 13px;
+	}
+
+	.table-bottom
+	{
+	    margin-bottom: 20px;
+	}
+
+	.table-info
+	{
+	    padding-top: 0;
+	    padding-bottom: 10px;
+	    text-align: center;
+	}
+
+	.pagination
+	{
+	    margin: 0;
+	    float: none;
+	}
+
+	.pagination > li > a,
+	.pagination > li > span
+	{
+	    margin: 0 0 2px 2px;
+	}
+
+	.modal-dialog
+	{
+	    margin-top: 20%;
+	}
+
+	.modal.large .modal-dialog
+	{
+	    min-width: auto;
+	}
+
+    .modal.medium .modal-dialog
+    {
+        min-width: auto;
+    }
+
+	.modal-title
+	{
+	    font-size: 15px;
+	}
+
+	.modal-header
+	{
+	    width: 100%;
+	}
+
+	.modal-body
+	{
+	    padding-left: 0;
+	    padding-right: 0;
+	    width: 100%;
+	}
+
+    .form-type-a .modal-body
+    {
+        max-height: none;
+        overflow-y: visible;
+        padding: 20px 0 0 0;
+    }
+
+    .form-type-a .modal-body.vertical
+    {
+        padding-top: 15px;
+    }
+
+    .modal-footer.space
+    {
+        padding-right: 15px;
+    }
+
+	.modal-footer
+	{
+	    width: 100%;
+	}
+
+	.alert
+	{
+	    width: 100%;
+	    padding: 15px 15px 15px 50px;
+	    margin-bottom: 20px;
+	    word-spacing: 2px;
+	    font-size: 14px;
+	}
+
+	.alert span.fa
+	{
+	    top: 0;
+	    left: 0;
+	    width: 50px;
+	    height: 100%;
+	    padding-top: 13px;
+	    font-size: 20px;
+	}
+
+	.form-type-a .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-a label
+	{
+	    font-size: 13px;
+	    text-align: left;
+        padding-top: 0;
+	}
+
+	.form-type-a .form-control
+	{
+	    font-size: 13px;
+	    padding: 6px 10px!important;
+	}
+
+	.form-type-a textarea
+	{
+	    height: 80px;
+	}
+
+    .form-type-a .inline-input
+    {
+        padding: 3px 10px 0 10px!important;
+        min-height: 34px;
+        line-height: 22px;
+        width: 100%;
+    }
+
+    .form-type-a .inline-input span
+    {
+        margin-bottom: 7px;
+        margin-right: 20px;
+        padding-right: 3px;
+    }
+
+    .form-type-a .inline-input span input
+    {
+        margin: 5px 5px 0 0;
+    }
+
+	.form-type-a .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	    padding: 0;
+	}
+
+	.form-type-b .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-b .form-group:last-child
+	{
+	    margin-bottom: 0;
+	}
+
+	.form-type-b .form-group:first-child
+	{
+		margin-bottom: 15px;
+	}
+
+	.form-type-b label
+	{
+	    font-size: 13px;
+	    text-align: left;
+	}
+
+	.form-type-b .inline-input
+	{
+	    padding: 7px 10px 0 10px!important;
+	    min-height: 36px;
+	    line-height: 22px;
+	    width: 100%;
+	}
+
+	.form-type-b .inline-input span
+	{
+	    margin-bottom: 7px;
+	    margin-right: 20px;
+	    padding-right: 3px;
+	}
+
+	.form-type-b .inline-input span input
+	{
+	    margin: 5px 5px 0 0;
+	}
+
+	.form-type-b input.form-control,
+	.form-type-b textarea.form-control
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;
+	}
+
+    .form-type-b.font-md input.form-control,
+    .form-type-b.font-md textarea.form-control,
+    .form-type-b.font-md .inline-input
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b select
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;  
+	}
+
+    .form-type-b.font-md select
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b textarea
+	{
+	    min-height: 80px;
+	}
+
+	.form-type-b input[type='file']
+	{
+	    font-size: 13px;
+	    line-height: 1.42857;
+	    padding: 8px 12px;
+	    width: 100%;
+	}
+
+	.form-type-b .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b .btn
+	{
+	    margin-right: 9px;
+	}
+
+	.div-type-info
+	{
+	    padding: 0!important;
+	}
+
+	.div-type-a
+	{
+	    padding: 0;
+	}
+
+    .div-panel-header
+    {
+        padding: 10px 0 15px 0;
+    }
+
+	.div-type-c
+	{
+		padding-top: 20px;
+		padding-bottom: 3px;
+		min-height: 50px;
+	}
+
+	.div-type-d
+	{
+		padding-top: 3px;
+		padding-bottom: 3px;
+		min-height: 33px;
+	}
+
+	.div-type-e
+	{
+		width: 195px;
+		padding: 10px 5px 0 5px;
+		min-height: 20px;
+		top: 100%;
+		left: 15px;
+	}	
+
+	.div-type-e.double
+	{
+	   width: 100%; 
+	}
+
+	.div-type-f
+	{
+	    width: 47%;
+	    margin: 0 1.5% 10px 1.5%;
+	}
+
+	.div-type-g
+	{
+	    width: 96%;
+	    margin: 0 2% 10px 2%;
+	}
+
+    .div-type-m
+    {
+        padding: 0;
+    }
+
+    .div-type-n
+    {
+        margin-bottom: 20px;
+    }
+
+    .div-type-p
+    {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .div-double-input
+    {
+        padding: 0;
+    }
+
+    .div-double-input.triple
+    {
+        padding: 0;
+    }
+
+    .div-double-input:last-child
+    {
+        padding: 0;
+    }
+
+    .div-double-input .full
+    {
+        margin-bottom: 10px;
+    }
+
+    .line-input .div-double-input .form-control
+    {
+        border-right-width: 1px;
+    }
+
+    .line-input .div-double-input:last-child .form-control,
+    .line-input .div-double-input.last .form-control
+    {
+        border-right-width: 1px;
+        border-left-width: 1px;
+    }
+
+	.right-top
+	{
+	    top: 10px;
+	    right: 15px;
+	}
+
+	header
+	{
+	    top: 0;
+	    left: auto;
+	    width: 100%;
+	}
+
+	#logo
+	{
+	    height: 51px;
+	    width: 20%;
+	    padding: 0;
+	}
+
+	#logo.compress
+	{
+	    width: 19.7%;
+	}
+
+	.logo-txt
+	{
+	    font-size: 17px;
+	    line-height: 51px;
+	    height: 51px;
+	    width: 100%;
+	    letter-spacing: 1px;
+	    text-indent: -9999px;
+	}
+
+	#logo.compress .logo-txt
+	{
+	    display: none;
+	}
+
+	.menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    display: none;
+	}
+
+	#logo.compress .menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    width: 100%;
+	}
+
+	.menu-toggler i
+	{
+	    font-size: 14px;
+	}
+
+	.mob-menu-toggler
+	{
+	    position: absolute;
+	    bottom: 0;
+	    left: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    width: 100%;
+	    display: initial;    
+	}
+
+	.mob-menu-toggler i
+	{
+		font-size: 14px;
+	}
+
+	#top-nav
+	{
+	    width: 80%;
+	}
+
+	#top-nav.expand
+	{
+	    width: 80%;
+	}
+
+	#top-nav .btn-group
+	{
+	    width: 25%;
+	}
+
+	#top-nav .btn-group .nav-link
+	{
+	    width: 100%;
+	}
+
+	#top-nav .dropdown-menu
+	{
+	    right: 0!important;
+	    left: auto!important;
+	    font-size: 13px;
+	    padding: 0;
+	}
+
+	#top-nav .dropdown-menu .divider
+	{
+	    height: 1px;
+	    margin: 5px 0;
+	}
+
+	#top-nav .dropdown-menu li a
+	{
+	    padding-top: 7px;
+	    padding-bottom: 7px;
+	}
+
+	#top-nav .dropdown-menu li a i
+	{
+	    margin-right: 10px;
+	}
+
+	#top-nav .nav-link
+	{
+	    line-height: 51px;
+	    height: 51px;
+	    width: 25%;
+	    padding: 0 17px;
+	}
+
+	#top-nav a i.pe-2x
+	{
+	    font-size: 20px;
+	}
+
+	.nav-link.expand
+	{
+	    display: none;
+	}
+
+	.expand i
+	{
+	    font-size: 14px;
+	}
+
+	#top-nav .nav-link p
+	{
+	    margin-top: 0;
+	    margin-bottom: 0;
+	}
+
+	.me
+	{
+	    font-size: 14px;
+	}
+
+	.me span
+	{
+	    display: none;
+	}
+
+	.me img
+	{
+	    width: 32px;
+	    height: 32px;
+	}
+
+	.task
+	{
+	    display: none;
+	}
+
+	.task .time
+	{
+	    font-size: 15px;
+	    padding-right: 20px;
+	    margin-right: 15px;
+	}
+
+	.task .time span
+	{
+	    font-size: 11px;
+	    top: -2px;
+	    right: 0;
+	}
+
+	.task .task-count
+	{
+	    font-size: 11px;
+	}
+
+	.task .task-count i
+	{
+	    margin-right: 5px;
+	    font-size: 13px;
+	}
+
+	.notification-signal
+	{
+	    width: 18px;
+	    height: 18px;
+	    top: 5px;
+	    right: 5px;
+	    font-size: 11px;  
+	    line-height: 17px;   
+	}
+
+	.notification-signal:after
+	{
+	    top: 0;
+	    right: 0;
+	    width: 18px;
+	    height: 18px;
+	}
+
+	nav
+	{
+	    width: 250px;
+	    top: 51px;
+	    left: -250px;
+	}
+
+	nav.show
+	{
+		top: 51px;
+		left: 0;
+	}	
+
+	nav ul
+	{
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav ul li
+	{
+	    width: 100%;
+	}
+
+	nav ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 42px;
+	    line-height: 42px;    
+	    font-size: 14px;
+	    letter-spacing: 2px;
+	    word-spacing: 2px;
+	}
+
+	nav ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 42px;
+	    font-size: 14px;  
+	}
+
+	nav ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 41px;
+	    height: 41px;
+	    padding: 0 9px;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	}
+
+    nav ul li a i.fa.mdi
+    {
+        font-size: 24px;
+        padding: 0 5.75px 0 7px;
+    }
+
+	nav ul li a i.fa.fa-sm
+	{
+	    font-size: 15px;
+	}
+
+    nav ul li a i.fa.fa-md
+    {
+        font-size: 21px;
+    }
+
+    nav ul li a i.fa.fa-lg
+    {
+        font-size: 26px;
+    }
+
+	nav ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 11px;
+	    right: 10px;
+	    line-height: 21px;
+	}
+
+	nav ul li ul li a
+	{
+	    line-height: 37px;
+	    font-size: 13px;
+	}
+
+	nav ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	}
+
+	nav ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	nav.compress
+	{
+	    width: 205px;
+	    top: 51px;
+	    left: -205px;
+	}
+
+	nav.compress ul
+	{
+	    width: 40px;
+	    height: 100%;
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav.compress ul li
+	{
+	    width: 100%;
+	    min-height: 39px;
+	}
+
+	nav.compress ul li:hover
+	{
+	    width: 205px;
+	}
+
+	nav.compress ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 39px;
+	    line-height: 39px;    
+	    font-size: 13px;
+	}
+
+	nav.compress ul li a
+	{
+	    padding: 0;    
+	    text-indent: -999px;
+	    line-height: 39px;
+	    font-size: 14px;  
+	}
+
+	nav.compress ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a
+	{
+	    width: 205px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 50px;
+	}
+
+	nav.compress ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 39px;
+	    height: 39px;
+	    padding: 0;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a i.fa
+	{
+	   width: 40px;
+	}
+
+	nav.compress ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav.compress ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 10px;
+	    right: 10px;
+	    line-height: 17px;
+	}
+
+	nav.compress ul li ul
+	{
+	    top: 39px;
+	    right: 0;
+	    width: 165px;
+	    height: auto;
+	}
+
+	nav.compress ul li ul li
+	{
+	    width: 100%;
+	    min-height: 36px;
+	}
+
+	nav.compress ul li ul li:hover
+	{
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 37px;
+	    font-size: 13px;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover ul li a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li:hover ul li:hover a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 1px;
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 0;
+	    width: auto;
+	}
+
+	nav.compress ul li:hover ul li a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li:hover a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	main
+	{
+	    width: 100%;
+	    margin-left: 0;    
+	    padding: 71px 20px 20px 20px;
+	}
+
+	main.shadow
+	{
+	    opacity: 0.125;
+	}
+
+	main.expand
+	{
+	    width: 100%;
+	    margin-left: 0;    
+	}
+
+	main .row
+	{
+	    margin: 0 0 20px 0;
+	}
+
+	main .row:last-child
+	{
+	    margin: 0;
+	}
+
+    main .row.single
+    {
+        margin-bottom: 0;
+    }
+
+	#content-loader
+	{
+	    top: 45%;
+	    left: 45%;
+	}
+}
+
+/* Mobile Layout: 320px
+------------------------*/
+@media only screen and (min-width: 320px) and (max-width: 767px)
+{
+	body
+	{
+	    font-size: 13px;
+	}
+
+    .xs-center-sm-left
+    {
+        text-align: center;
+    }
+
+    .xs-center-sm-right
+    {
+        text-align: center;
+    }
+
+    .xs-left-sm-right
+    {
+        text-align: left;
+    }
+
+    .next-action
+    {
+        float: left;
+    }
+
+    .float-sm-auto-md-right
+    {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .padd-top-xs-0-md-30
+    {
+        padding-top: 0;
+    }
+
+    .padd-right-xs-15-md-0
+    {
+        padding-right: 15px;
+    }
+
+    .display-lim-lg
+    {
+        display: none;
+    }
+
+    .display-lim-md
+    {
+        display: none;
+    }
+
+    .display-lim-sm
+    {
+        display: none;
+    }
+
+    .display-lim-xs
+    {
+        display: none;
+    }
+
+    .display-lim-xxs
+    {
+        display: block;
+    }
+
+    .hide-lim-lg
+    {
+        display: block;
+    }
+
+    .hide-lim-md
+    {
+        display: block;
+    }
+
+    .hide-lim-sm
+    {
+        display: block;
+    }
+
+    .hide-lim-xs
+    {
+        display: block;
+    }
+
+    .hide-lim-xxs
+    {
+        display: block;
+    }
+
+	.title-type-a
+	{
+	    font-size: 14px;
+        line-height: 20px;
+	    margin: 0 0 20px 0;
+	    padding: 20px;
+	}
+
+	.btn
+	{
+	    font-size: 13px;
+	    padding: 8px 13px;
+	}
+
+	.tooltip-inner
+	{
+	    font-size: 12px;
+	}
+
+	.select-type-a
+	{
+	    padding: 0 17px 0 5px;
+	    height: 34px;
+	    margin-top: 0;
+	}
+
+	.table-responsive
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	}
+
+    .table-responsive.zero-distance
+    {
+        margin: 0;
+    }
+
+	.filter-table
+	{
+	    margin-top: 0;
+	    margin-bottom: -10px;
+	}
+
+	.filter-table form
+	{
+	    width: 100%;
+	    padding-left: 0;
+	    padding-bottom: 44px;
+	}
+
+	.filter-table form select
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form select.limit
+	{
+	    top: auto;
+	    bottom: 0;
+	    left: 0;
+	}
+
+	.filter-table form .select2
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form input
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form .btn-group
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+
+	.filter-table form :last-child
+	{
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+
+	.radio-filter
+	{
+	    margin-top: 0;
+	}
+
+	.filter-table .btn
+	{
+	    padding: 0 15px;
+	    min-width: 70px;
+	    height: 34px;
+	    line-height: 34px;
+	}
+
+	input[type='text']
+	{
+	    padding: 7px 10px;
+	    height: 34px;
+	    line-height: 20px;
+	}
+
+	.filter-table input[type='text']
+	{
+	    width: 100%;
+	    min-width: 100%;
+	    max-width: 100%;
+	}
+
+	input.search
+	{
+	    padding-right: 13%;
+	}
+
+	table.table
+	{
+	    margin: 20px 0 0 0;   
+	}
+
+    .zero-distance table.table
+    {
+        margin: 0;
+    }
+
+	table.table thead th
+	{
+	    padding: 15px 10px;
+	}
+
+	table.table th.action-1
+	{
+	    min-width: 40px;
+	}
+
+	table.table th.action-2
+	{
+	    min-width: 55px;
+        width: 55px!important;
+        max-width: 55px!important;
+	}
+
+	table.table th.action-3
+	{
+	    min-width: 120px;
+	}
+
+    table.table th.action-4
+    {
+        min-width: 140px;
+    }
+
+	table.table tr td
+	{
+	    padding: 10px;
+	}
+
+	table.table td .shadow
+	{
+	    font-size: 11px;
+	}
+	 
+	table.table td .progress
+	{
+	    height: 8px;
+	    width: 100%;
+	    min-width: 70px;
+        max-width: 80px;
+	    margin-top: 8px;
+	    margin-bottom: 8px;
+	}
+
+	table.table td .tbl-btn
+	{
+	    width: 26px;
+	    height: 26px;
+	    margin: 0 5px;
+	}
+
+	table.table td .tbl-btn i
+	{
+	    line-height: 25px;
+	    font-size: 15px;
+	}
+
+	table.table td .tbl-btn i.lg
+	{
+	    font-size: 23px;
+	}
+
+	table.table td .tbl-btn i.sm
+	{
+	    font-size: 13px;
+	}
+
+	.table-bottom
+	{
+	    margin-bottom: 20px;
+	}
+
+	.table-info
+	{
+	    padding-top: 0;
+	    padding-bottom: 10px;
+	    text-align: center;
+	}
+
+	.pagination
+	{
+	    margin: 0;
+	    float: none;
+	}
+
+	.pagination > li > a,
+	.pagination > li > span
+	{
+	    margin: 0 0 2px 2px;
+	}
+
+	.modal-dialog
+	{
+	    margin-top: 17%;
+	}
+
+	.modal.large .modal-dialog
+	{
+	    min-width: auto;
+	}
+
+    .modal.medium .modal-dialog
+    {
+        min-width: auto;
+    }
+
+	.modal-title
+	{
+	    font-size: 15px;
+	}
+
+	.modal-header
+	{
+	    width: 100%;
+	}
+
+	.modal-body
+	{
+	    padding-left: 0;
+	    padding-right: 0;
+	    width: 100%;
+	}
+
+    .form-type-a .modal-body
+    {
+        max-height: none;
+        overflow-y: visible;
+        padding: 20px 0 0 0;
+    }
+
+    .form-type-a .modal-body.vertical
+    {
+        padding-top: 15px;
+    }
+
+    .modal-footer.space
+    {
+        padding-right: 15px;
+    }
+
+	.modal-footer
+	{
+	    width: 100%;
+	}
+
+	.alert
+	{
+	    width: 100%;
+	    padding: 15px 15px 15px 50px;
+	    margin-bottom: 20px;
+	    word-spacing: 2px;
+	    font-size: 14px;
+	}
+
+	.alert span.fa
+	{
+	    top: 0;
+	    left: 0;
+	    width: 50px;
+	    height: 100%;
+	    padding-top: 13px;
+	    font-size: 20px;
+	}
+
+	.form-type-a .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-a label
+	{
+	    font-size: 13px;
+	    text-align: left;
+        padding-top: 0;
+	}
+
+	.form-type-a .form-control
+	{
+	    font-size: 13px;
+	    padding: 6px 10px!important;
+	}
+
+	.form-type-a textarea
+	{
+	    height: 80px;
+	}
+
+    .form-type-a .inline-input
+    {
+        padding: 3px 10px 0 10px!important;
+        min-height: 34px;
+        line-height: 22px;
+        width: 100%;
+    }
+
+    .form-type-a .inline-input span
+    {
+        margin-bottom: 7px;
+        margin-right: 20px;
+        padding-right: 3px;
+    }
+
+    .form-type-a .inline-input span input
+    {
+        margin: 5px 5px 0 0;
+    }
+
+	.form-type-a .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	    padding: 0;
+	}
+
+	.form-type-b .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-b .form-group:last-child
+	{
+	    margin-bottom: 0;
+	}
+
+	.form-type-b .form-group:first-child
+	{
+		margin-bottom: 15px;
+	}
+
+	.form-type-b label
+	{
+	    font-size: 13px;
+	    text-align: left;
+	}
+
+	.form-type-b .inline-input
+	{
+	    padding: 7px 10px 0 10px!important;
+	    min-height: 36px;
+	    line-height: 22px;
+	    width: 100%;
+	}
+
+	.form-type-b .inline-input span
+	{
+	    margin-bottom: 7px;
+	    margin-right: 20px;
+	    padding-right: 3px;
+	}
+
+	.form-type-b .inline-input span input
+	{
+	    margin: 5px 5px 0 0;
+	}
+
+	.form-type-b input.form-control,
+	.form-type-b textarea.form-control
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;
+	}
+
+    .form-type-b.font-md input.form-control,
+    .form-type-b.font-md textarea.form-control,
+    .form-type-b.font-md .inline-input
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b select
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;  
+	}
+
+    .form-type-b.font-md select
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b textarea
+	{
+	    min-height: 80px;
+	}
+
+	.form-type-b input[type='file']
+	{
+	    font-size: 13px;
+	    line-height: 1.42857;
+	    padding: 8px 12px;
+	    width: 100%;
+	}
+
+	.form-type-b .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b .btn
+	{
+	    margin-right: 9px;
+	}
+
+	.div-type-info
+	{
+	    padding: 0!important;
+	}
+
+	.div-type-a
+	{
+	    padding: 0;
+	}
+
+    .div-panel-header
+    {
+        padding: 10px 0 15px 0;
+    }
+
+	.div-type-c
+	{
+		padding-top: 20px;
+		padding-bottom: 3px;
+		min-height: 50px;
+	}
+
+	.div-type-d
+	{
+		padding-top: 3px;
+		padding-bottom: 3px;
+		min-height: 33px;
+	}
+
+	.div-type-e
+	{
+		width: 195px;
+		padding: 10px 5px 0 5px;
+		min-height: 20px;
+		top: 100%;
+		left: 15px;
+	}	
+
+	.div-type-e.double
+	{
+	   width: 100%; 
+	}
+
+	.div-type-f
+	{
+	    width: 47%;
+	    margin: 0 1.5% 10px 1.5%;
+	}
+
+	.div-type-g
+	{
+	    width: 96%;
+	    margin: 0 2% 10px 2%;
+	}
+
+    .div-type-m
+    {
+        padding: 0;
+    }
+
+    .div-type-n
+    {
+        margin-bottom: 20px;
+    }
+
+    .div-type-p
+    {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .div-double-input
+    {
+        padding: 0;
+    }
+
+    .div-double-input.triple
+    {
+        padding: 0;
+    }
+
+    .div-double-input:last-child
+    {
+        padding: 0;
+    }
+
+    .div-double-input .full
+    {
+        margin-bottom: 10px;
+    }
+
+    .line-input .div-double-input .form-control
+    {
+        border-right-width: 1px;
+    }
+
+    .line-input .div-double-input:last-child .form-control,
+    .line-input .div-double-input.last .form-control
+    {
+        border-right-width: 1px;
+        border-left-width: 1px;
+    }
+
+	.right-top
+	{
+	    top: 10px;
+	    right: 15px;
+	}
+
+	header
+	{
+	    top: 0;
+	    left: auto;
+	    width: 100%;
+	}
+
+	#logo
+	{
+	    height: 51px;
+	    width: 20%;
+	    padding: 0;
+	}
+
+	#logo.compress
+	{
+	    width: 19.7%;
+	}
+
+	.logo-txt
+	{
+	    font-size: 17px;
+	    line-height: 51px;
+	    height: 51px;
+	    width: 100%;
+	    letter-spacing: 1px;
+	    text-indent: -9999px;
+	}
+
+	#logo.compress .logo-txt
+	{
+	    display: none;
+	}
+
+	.menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    display: none;
+	}
+
+	#logo.compress .menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    width: 100%;
+	}
+
+	.menu-toggler i
+	{
+	    font-size: 14px;
+	}
+
+	.mob-menu-toggler
+	{
+	    position: absolute;
+	    bottom: 0;
+	    left: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    width: 100%;
+	    display: initial;    
+	}
+
+	.mob-menu-toggler i
+	{
+		font-size: 14px;
+	}
+
+	#top-nav
+	{
+	    width: 80%;
+	}
+
+	#top-nav.expand
+	{
+	    width: 80%;
+	}
+
+	#top-nav .btn-group
+	{
+	    width: 25%;
+	}
+
+	#top-nav .btn-group .nav-link
+	{
+	    width: 100%;
+	}  
+
+	#top-nav .dropdown-menu
+	{
+	    right: 0!important;
+	    left: auto!important;
+	    font-size: 13px;
+	    padding: 0;
+	}
+
+	#top-nav .dropdown-menu .divider
+	{
+	    height: 1px;
+	    margin: 5px 0;
+	}
+
+	#top-nav .dropdown-menu li a
+	{
+	    padding-top: 7px;
+	    padding-bottom: 7px;
+	}
+
+	#top-nav .dropdown-menu li a i
+	{
+	    margin-right: 10px;
+	}
+
+	#top-nav .nav-link
+	{
+	    line-height: 51px;
+	    height: 51px;
+	    width: 25%;
+	    padding: 0 17px;
+	}
+
+	#top-nav a i.pe-2x
+	{
+	    font-size: 20px;
+	}
+
+	.nav-link.expand
+	{
+	    display: none;
+	}
+
+	.expand i
+	{
+	    font-size: 14px;
+	}
+
+	#top-nav .nav-link p
+	{
+	    margin-top: 0;
+	    margin-bottom: 0;
+	}
+
+	.me
+	{
+	    font-size: 14px;
+	}
+
+	.me span
+	{
+	    display: none;
+	}
+
+	.me img
+	{
+	    width: 32px;
+	    height: 32px;
+	}
+
+	.task
+	{
+	    display: none;
+	}
+
+	.task .time
+	{
+	    font-size: 15px;
+	    padding-right: 20px;
+	    margin-right: 15px;
+	}
+
+	.task .time span
+	{
+	    font-size: 11px;
+	    top: -2px;
+	    right: 0;
+	}
+
+	.task .task-count
+	{
+	    font-size: 11px;
+	}
+
+	.task .task-count i
+	{
+	    margin-right: 5px;
+	    font-size: 13px;
+	}
+
+	.notification-signal
+	{
+	    width: 18px;
+	    height: 18px;
+	    top: 5px;
+	    right: 20%;
+	    font-size: 11px;  
+	    line-height: 17px;   
+	}
+
+	.notification-signal:after
+	{
+	    top: 0;
+	    right: 0;
+	    width: 18px;
+	    height: 18px;
+	}
+
+	nav
+	{
+	    width: 250px;
+	    top: 51px;
+	    left: -250px;
+	}
+
+	nav.show
+	{
+		top: 51px;
+		left: 0;
+	}	
+
+	nav ul
+	{
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav ul li
+	{
+	    width: 100%;
+	}
+
+	nav ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 42px;
+	    line-height: 42px;    
+	    font-size: 14px;
+	    letter-spacing: 2px;
+	    word-spacing: 2px;
+	}
+
+	nav ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 42px;
+	    font-size: 14px;  
+	}
+
+	nav ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 41px;
+	    height: 41px;
+	    padding: 0 9px;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	}
+
+    nav ul li a i.fa.mdi
+    {
+        font-size: 24px;
+        padding: 0 5.75px 0 7px;
+    }
+
+	nav ul li a i.fa.fa-sm
+	{
+	    font-size: 15px;
+	}
+
+    nav ul li a i.fa.fa-md
+    {
+        font-size: 21px;
+    }
+
+    nav ul li a i.fa.fa-lg
+    {
+        font-size: 26px;
+    }
+
+	nav ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 11px;
+	    right: 10px;
+	    line-height: 21px;
+	}
+
+	nav ul li ul li a
+	{
+	    line-height: 37px;
+	    font-size: 13px;
+	}
+
+	nav ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	}
+
+	nav ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	nav.compress
+	{
+	    width: 205px;
+	    top: 51px;
+	    left: -205px;
+	}
+
+	nav.compress ul
+	{
+	    width: 40px;
+	    height: 100%;
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav.compress ul li
+	{
+	    width: 100%;
+	    min-height: 39px;
+	}
+
+	nav.compress ul li:hover
+	{
+	    width: 205px;
+	}
+
+	nav.compress ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 39px;
+	    line-height: 39px;    
+	    font-size: 13px;
+	}
+
+	nav.compress ul li a
+	{
+	    padding: 0;    
+	    text-indent: -999px;
+	    line-height: 39px;
+	    font-size: 14px;  
+	}
+
+	nav.compress ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a
+	{
+	    width: 205px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 50px;
+	}
+
+	nav.compress ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 39px;
+	    height: 39px;
+	    padding: 0;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a i.fa
+	{
+	   width: 40px;
+	}
+
+	nav.compress ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav.compress ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 10px;
+	    right: 10px;
+	    line-height: 17px;
+	}
+
+	nav.compress ul li ul
+	{
+	    top: 39px;
+	    right: 0;
+	    width: 165px;
+	    height: auto;
+	}
+
+	nav.compress ul li ul li
+	{
+	    width: 100%;
+	    min-height: 36px;
+	}
+
+	nav.compress ul li ul li:hover
+	{
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 37px;
+	    font-size: 13px;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover ul li a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li:hover ul li:hover a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 1px;
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 0;
+	    width: auto;
+	}
+
+	nav.compress ul li:hover ul li a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li:hover a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	main
+	{
+	    width: 100%;
+	    margin-left: 0;    
+	    padding: 71px 20px 20px 20px;
+	}
+
+	main.shadow
+	{
+	    opacity: 0.125;
+	}
+
+	main.expand
+	{
+	    width: 100%;
+	    margin-left: 0;    
+	}
+
+	main .row
+	{
+	    margin: 0 0 20px 0;
+	}
+
+	main .row:last-child
+	{
+	    margin: 0;
+	}
+
+    main .row.single
+    {
+        margin-bottom: 0;
+    }
+
+	#content-loader
+	{
+	    top: 45%;
+	    left: 45%;
+	}
+}
+
+/* Wide Mobile Layout: 480px
+-----------------------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+	body
+	{
+	    font-size: 13px;
+	}
+
+    .xs-center-sm-left
+    {
+        text-align: center;
+    }
+
+    .xs-center-sm-right
+    {
+        text-align: center;
+    }
+
+    .xs-left-sm-right
+    {
+        text-align: left;
+    }
+
+    .next-action
+    {
+        float: left;
+    }
+
+    .float-sm-auto-md-right
+    {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .padd-top-xs-0-md-30
+    {
+        padding-top: 0;
+    }
+
+    .padd-right-xs-15-md-0
+    {
+        padding-right: 15px;
+    }
+
+    .display-lim-lg
+    {
+        display: none;
+    }
+
+    .display-lim-md
+    {
+        display: none;
+    }
+
+    .display-lim-sm
+    {
+        display: none;
+    }
+
+    .display-lim-xs
+    {
+        display: block;
+    }
+
+    .display-lim-xxs
+    {
+        display: block;
+    }
+
+    .hide-lim-lg
+    {
+        display: block;
+    }
+
+    .hide-lim-md
+    {
+        display: block;
+    }
+
+    .hide-lim-sm
+    {
+        display: block;
+    }
+
+    .hide-lim-xs
+    {
+        display: block;
+    }
+
+    .hide-lim-xxs
+    {
+        display: none;
+    }
+
+	.title-type-a
+	{
+	    font-size: 14px;
+        line-height: 20px;
+	    margin: 0 0 20px 0;
+	    padding: 20px;
+	}
+
+	.btn
+	{
+	    font-size: 13px;
+	    padding: 8px 13px;
+	}
+
+	.tooltip-inner
+	{
+	    font-size: 12px;
+	}
+
+	.select-type-a
+	{
+	    padding: 0 17px 0 5px;
+	    height: 34px;
+	    margin-top: 0;
+	}
+
+	.table-responsive
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	}
+
+    .table-responsive.zero-distance
+    {
+        margin: 0;
+    }
+
+	.filter-table
+	{
+	    margin-top: 0;
+	    margin-bottom: -10px;
+	}
+
+	.filter-table form
+	{
+	    width: 100%;
+	    padding-left: 0;
+	    padding-bottom: 44px;
+	}
+
+	.filter-table form select
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form select.limit
+	{
+	    top: auto;
+	    bottom: 0;
+	    left: 0;
+	}
+
+	.filter-table form .select2
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form input
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+	.filter-table form .btn-group
+	{
+	    float: left;
+	    margin-left: 0;
+	    margin-right: 10px;
+	    margin-bottom: 10px;
+	}
+
+
+	.filter-table form :last-child
+	{
+	    margin-left: 0;
+	    margin-right: 0;
+	}
+
+	.radio-filter
+	{
+	    margin-top: 0;
+	}
+
+	.filter-table .btn
+	{
+	    padding: 0 15px;
+	    min-width: 100px;
+	    height: 34px;
+	    line-height: 34px;
+	}
+
+	input[type='text']
+	{
+	    padding: 7px 10px;
+	    height: 34px;
+	    line-height: 20px;
+	}
+
+	.filter-table input[type='text']
+	{
+	    width: 50%;
+	    min-width: 200px;
+	    max-width: 200px;
+	}
+
+	input.search
+	{
+	    padding-right: 13%;
+	}
+
+	table.table
+	{
+	    margin: 20px 0 0 0;    
+	}
+
+    .zero-distance table.table
+    {
+        margin: 0;
+    }
+
+	table.table thead th
+	{
+	    padding: 15px 10px;
+	}
+
+	table.table th.action-1
+	{
+	    min-width: 40px;
+	}
+
+	table.table th.action-2
+	{
+	    min-width: 55px;
+        width: 55px!important;
+        max-width: 55px!important;
+	}
+
+	table.table th.action-3
+	{
+	    min-width: 120px;
+	}
+
+    table.table th.action-4
+    {
+        min-width: 140px;
+    }
+
+	table.table tr td
+	{
+	    padding: 10px;
+	}
+
+	table.table td .shadow
+	{
+	    font-size: 11px;
+	}
+	 
+	table.table td .progress
+	{
+	    height: 8px;
+	    width: 100%;
+	    min-width: 70px;
+        max-width: 80px;
+	    margin-top: 8px;
+	    margin-bottom: 8px;
+	}
+
+	table.table td .tbl-btn
+	{
+	    width: 26px;
+	    height: 26px;
+	    margin: 0 5px;
+	}
+
+	table.table td .tbl-btn i
+	{
+	    line-height: 25px;
+	    font-size: 15px;
+	}
+
+	table.table td .tbl-btn i.lg
+	{
+	    font-size: 23px;
+	}
+
+	table.table td .tbl-btn i.sm
+	{
+	    font-size: 13px;
+	}
+
+	.table-bottom
+	{
+	    margin-bottom: 20px;
+	}
+
+	.table-info
+	{
+	    padding-top: 0;
+	    padding-bottom: 10px;
+	    text-align: center;
+	}
+
+	.pagination
+	{
+	    margin: 0;
+	    float: none;
+	}
+
+	.pagination > li > a,
+	.pagination > li > span
+	{
+	    margin: 0 0 2px 2px;
+	}
+
+	.modal-dialog
+	{
+	    margin-top: 15%;
+	}
+
+	.modal.large .modal-dialog
+	{
+	    min-width: auto;
+	}
+
+    .modal.medium .modal-dialog
+    {
+        min-width: auto;
+    }
+
+	.modal-title
+	{
+	    font-size: 15px;
+	}
+
+	.modal-header
+	{
+	    width: 100%;
+	}
+
+	.modal-body
+	{
+	    padding-left: 0;
+	    padding-right: 0;
+	    width: 100%;
+	}
+
+    .form-type-a .modal-body
+    {
+        max-height: none;
+        overflow-y: visible;
+        padding: 20px 0 0 0;
+    }
+
+    .form-type-a .modal-body.vertical
+    {
+        padding-top: 15px;
+    }
+
+    .modal-footer.space
+    {
+        padding-right: 15px;
+    }
+
+	.modal-footer
+	{
+	    width: 100%;
+	}
+
+	.alert
+	{
+	    width: 100%;
+	    padding: 15px 15px 15px 50px;
+	    margin-bottom: 20px;
+	    word-spacing: 2px;
+	    font-size: 14px;
+	}
+
+	.alert span.fa
+	{
+	    top: 0;
+	    left: 0;
+	    width: 50px;
+	    height: 100%;
+	    padding-top: 13px;
+	    font-size: 20px;
+	}
+
+	.form-type-a .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-a label
+	{
+	    font-size: 13px;
+	    text-align: left;
+        padding-top: 0;
+	}
+
+	.form-type-a .form-control
+	{
+	    font-size: 13px;
+	    padding: 6px 10px!important;
+	}
+	
+	.form-type-a textarea
+	{
+	    height: 80px;
+	}
+
+    .form-type-a .inline-input
+    {
+        padding: 3px 10px 0 10px!important;
+        min-height: 34px;
+        line-height: 22px;
+        width: 100%;
+    }
+
+    .form-type-a .inline-input span
+    {
+        margin-bottom: 7px;
+        margin-right: 20px;
+        padding-right: 3px;
+    }
+
+    .form-type-a .inline-input span input
+    {
+        margin: 5px 5px 0 0;
+    }
+
+	.form-type-a .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b
+	{
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	    padding: 0;
+	}
+
+	.form-type-b .form-group
+	{
+	    width: 100%;
+	}
+
+	.form-type-b .form-group:last-child
+	{
+	    margin-bottom: 0;
+	}
+
+	.form-type-b .form-group:first-child
+	{
+		margin-bottom: 15px;
+	}
+
+	.form-type-b label
+	{
+	    font-size: 13px;
+	    text-align: left;
+	}
+
+	.form-type-b .inline-input
+	{
+	    padding: 7px 10px 0 10px!important;
+	    min-height: 36px;
+	    line-height: 22px;
+	    width: 100%;
+	}
+
+	.form-type-b .inline-input span
+	{
+	    margin-bottom: 7px;
+	    margin-right: 20px;
+	    padding-right: 3px;
+	}
+
+	.form-type-b .inline-input span input
+	{
+	    margin: 5px 5px 0 0;
+	}
+
+	.form-type-b input.form-control,
+	.form-type-b textarea.form-control
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;
+	}
+
+    .form-type-b.font-md input.form-control,
+    .form-type-b.font-md textarea.form-control,
+    .form-type-b.font-md .inline-input
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b select
+	{
+	    font-size: 13px;
+	    padding: 7px 10px!important;
+	    height: 36px;
+	    line-height: 22px;  
+	}
+
+    .form-type-b.font-md select
+    {
+        font-size: 13px;
+    }
+
+	.form-type-b textarea
+	{
+	    min-height: 80px;
+	}
+
+	.form-type-b input[type='file']
+	{
+	    font-size: 13px;
+	    line-height: 1.42857;
+	    padding: 8px 12px;
+	    width: 100%;
+	}
+
+	.form-type-b .validation-error
+	{
+	    font-size: 12px;
+	    margin-top: 5px;
+	}
+
+	.form-type-b .btn
+	{
+	    margin-right: 9px;
+	}
+
+	.div-type-info
+	{
+	    padding: 0!important;
+	}
+	
+	.div-type-a
+	{
+	    padding: 0;
+	}
+
+    .div-panel-header
+    {
+        padding: 10px 0 15px 0;
+    }
+
+	.div-type-c
+	{
+		padding-top: 20px;
+		padding-bottom: 3px;
+		min-height: 50px;
+	}
+
+	.div-type-d
+	{
+		padding-top: 3px;
+		padding-bottom: 3px;
+		min-height: 33px;
+	}
+
+	.div-type-e
+	{
+		width: 195px;
+		padding: 10px 5px 0 5px;
+		min-height: 20px;
+		top: 100%;
+		left: 15px;
+	}	
+
+	.div-type-e.double
+	{
+	   width: 340px; 
+	}
+
+	.div-type-f
+	{
+	    width: 47%;
+	    margin: 0 1.5% 10px 1.5%;
+	}
+
+	.div-type-g
+	{
+	    width: 96%;
+	    margin: 0 2% 10px 2%;
+	}
+
+    .div-type-m
+    {
+        padding: 0;
+    }
+
+    .div-type-n
+    {
+        margin-bottom: 20px;
+    }
+
+    .div-type-p
+    {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .div-double-input
+    {
+        padding: 0;
+    }
+
+    .div-double-input.triple
+    {
+        padding: 0;
+    }
+
+    .div-double-input:last-child
+    {
+        padding: 0;
+    }
+
+    .div-double-input .full
+    {
+        margin-bottom: 10px;
+    }
+
+    .line-input .div-double-input .form-control
+    {
+        border-right-width: 1px;
+    }
+
+    .line-input .div-double-input:last-child .form-control,
+    .line-input .div-double-input.last .form-control
+    {
+        border-right-width: 1px;
+        border-left-width: 1px;
+    }
+
+	.right-top
+	{
+	    top: 10px;
+	    right: 15px;
+	}
+
+	header
+	{
+	    top: 0;
+	    left: auto;
+	    width: 100%;
+	}
+
+	#logo
+	{
+	    height: 51px;
+	    width: 34%;
+	    padding: 0;
+	}
+
+	#logo.compress
+	{
+	    width: 33.7%;
+	}
+
+	.logo-txt
+	{
+	    font-size: 17px;
+	    line-height: 51px;
+	    height: 51px;
+	    width: 100%;
+	    letter-spacing: 1px;
+	    text-indent: 0;
+	}
+
+	#logo.compress .logo-txt
+	{
+	    display: none;
+	}
+
+	.menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    display: none;
+	}
+
+	#logo.compress .menu-toggler
+	{
+	    bottom: 0;
+	    right: 0;
+	    width: 100%;
+	}
+
+	.menu-toggler i
+	{
+	    font-size: 14px;
+	}
+
+	.mob-menu-toggler
+	{
+	    position: absolute;
+	    bottom: 0;
+	    left: 0;
+	    line-height: 51px;
+	    padding: 0 10px;
+	    width: auto;
+	    display: initial;    
+	}
+
+	.mob-menu-toggler i
+	{
+		font-size: 14px;
+	}
+
+	#top-nav
+	{
+	    width: 66%;
+	}
+
+	#top-nav.expand
+	{
+	    width: 66%;
+	}
+
+	#top-nav .btn-group
+	{
+	    width: auto;
+	}
+
+	#top-nav .btn-group .nav-link
+	{
+	    width: auto;
+	}  
+
+	#top-nav .dropdown-menu
+	{
+	    right: 0!important;
+	    left: auto!important;
+	    font-size: 13px;
+	    padding: 0;
+	}
+
+	#top-nav .dropdown-menu .divider
+	{
+	    height: 1px;
+	    margin: 5px 0;
+	}
+
+	#top-nav .dropdown-menu li a
+	{
+	    padding-top: 7px;
+	    padding-bottom: 7px;
+	}
+
+	#top-nav .dropdown-menu li a i
+	{
+	    margin-right: 10px;
+	}
+
+	#top-nav .nav-link
+	{
+	    line-height: 51px;
+	    height: 51px;
+	    width: auto;
+	    padding: 0 17px;
+	}
+
+	#top-nav a i.pe-2x
+	{
+	    font-size: 20px;
+	}
+
+	.nav-link.expand
+	{
+	    display: none;
+	}
+
+	.expand i
+	{
+	    font-size: 14px;
+	}
+
+	#top-nav .nav-link p
+	{
+	    margin-top: 0;
+	    margin-bottom: 0;
+	}
+
+	.me
+	{
+	    font-size: 14px;
+	}
+
+	.me span
+	{
+	    display: none;
+	}
+
+	.me img
+	{
+	    width: 32px;
+	    height: 32px;
+	}
+
+	.task
+	{
+	    display: none;
+	}
+
+	.task .time
+	{
+	    font-size: 15px;
+	    padding-right: 20px;
+	    margin-right: 15px;
+	}
+
+	.task .time span
+	{
+	    font-size: 11px;
+	    top: -2px;
+	    right: 0;
+	}
+
+	.task .task-count
+	{
+	    font-size: 11px;
+	}
+
+	.task .task-count i
+	{
+	    margin-right: 5px;
+	    font-size: 13px;
+	}
+
+	.notification-signal
+	{
+	    width: 18px;
+	    height: 18px;
+	    top: 5px;
+	    right: 5px;
+	    font-size: 11px;  
+	    line-height: 17px;   
+	}
+
+	.notification-signal:after
+	{
+	    top: 0;
+	    right: 0;
+	    width: 18px;
+	    height: 18px;
+	}
+
+	nav
+	{
+	    width: 250px;
+	    top: 51px;
+	    left: -250px;
+	}
+
+	nav.show
+	{
+		top: 51px;
+		left: 0;
+	}	
+
+	nav ul
+	{
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav ul li
+	{
+	    width: 100%;
+	}
+
+	nav ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 42px;
+	    line-height: 42px;    
+	    font-size: 14px;
+	    letter-spacing: 2px;
+	    word-spacing: 2px;
+	}
+
+	nav ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 42px;
+	    font-size: 14px;  
+	}
+
+	nav ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 41px;
+	    height: 41px;
+	    padding: 0 9px;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	}
+
+    nav ul li a i.fa.mdi
+    {
+        font-size: 24px;
+        padding: 0 5.75px 0 7px;
+    }
+
+	nav ul li a i.fa.fa-sm
+	{
+	    font-size: 15px;
+	}
+
+    nav ul li a i.fa.fa-md
+    {
+        font-size: 21px;
+    }
+
+    nav ul li a i.fa.fa-lg
+    {
+        font-size: 26px;
+    }
+
+	nav ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 11px;
+	    right: 10px;
+	    line-height: 21px;
+	}
+
+	nav ul li ul li a
+	{
+	    line-height: 37px;
+	    font-size: 13px;
+	}
+
+	nav ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	}
+
+	nav ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	nav.compress
+	{
+	    width: 205px;
+	    top: 51px;
+	    left: -205px;
+	}
+
+	nav.compress ul
+	{
+	    width: 40px;
+	    height: 100%;
+	    margin: 0;
+	    padding: 0;
+	}
+
+	nav.compress ul li
+	{
+	    width: 100%;
+	    min-height: 39px;
+	}
+
+	nav.compress ul li:hover
+	{
+	    width: 205px;
+	}
+
+	nav.compress ul li.heading
+	{
+	    padding: 0 0 0 10px;
+	    height: 39px;
+	    line-height: 39px;    
+	    font-size: 13px;
+	}
+
+	nav.compress ul li a
+	{
+	    padding: 0;    
+	    text-indent: -999px;
+	    line-height: 39px;
+	    font-size: 14px;  
+	}
+
+	nav.compress ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a
+	{
+	    width: 205px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 50px;
+	}
+
+	nav.compress ul li a i.fa
+	{
+	    font-size: 17px;
+	    line-height: 39px;
+	    height: 39px;
+	    padding: 0;
+	    text-indent: 0;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover a i.fa
+	{
+	   width: 40px;
+	}
+
+	nav.compress ul li a .tag
+	{
+	    font-size: 11px;
+	    text-indent: 0;
+	    line-height: 21px;
+	    padding: 0 7px;
+	    margin-left: 7px;
+	}
+
+	nav.compress ul li a span.fa
+	{
+	    font-size: 14px;
+	    text-indent: 0;
+	    top: 10px;
+	    right: 10px;
+	    line-height: 17px;
+	}
+
+	nav.compress ul li ul
+	{
+	    top: 39px;
+	    right: 0;
+	    width: 165px;
+	    height: auto;
+	}
+
+	nav.compress ul li ul li
+	{
+	    width: 100%;
+	    min-height: 36px;
+	}
+
+	nav.compress ul li ul li:hover
+	{
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a
+	{
+	    padding: 0;    
+	    text-indent: 40px;
+	    line-height: 37px;
+	    font-size: 13px;
+	    width: 100%;
+	}
+
+	nav.compress ul li:hover ul li a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li:hover ul li:hover a
+	{
+	    width: 100%;
+	    text-indent: 40px;
+	}
+
+	nav.compress ul li ul li a::after
+	{
+	    bottom: 0;
+	    left: 0;
+	    height: 1px;
+	    width: 100%;
+	}
+
+	nav.compress ul li ul li a i.fa
+	{
+	    font-size: 11px;
+	    line-height: 36px;
+	    height: 36px;
+	    padding: 0 9px;
+	    top: 0;
+	    left: 0;
+	    text-indent: 0;
+	    width: auto;
+	}
+
+	nav.compress ul li:hover ul li a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li:hover a i.fa
+	{
+	    width: auto;
+	}
+
+	nav.compress ul li ul li a span.fa
+	{
+	    top: 10px;
+	    right: 10px;
+	    line-height: 15px;
+	}
+
+	main
+	{
+	    width: 100%;
+	    margin-left: 0;    
+	    padding: 71px 20px 20px 20px;
+	}
+
+	main.shadow
+	{
+	    opacity: 0.125;
+	}
+
+	main.expand
+	{
+	    width: 100%;
+	    margin-left: 0;    
+	}
+
+	main .row
+	{
+	    margin: 0 0 20px 0;
+	}
+
+	main .row:last-child
+	{
+	    margin: 0;
+	}
+
+    main .row.single
+    {
+        margin-bottom: 0;
+    }
+
+	#content-loader
+	{
+	    top: 45%;
+	    left: 45%;
+	}
+}

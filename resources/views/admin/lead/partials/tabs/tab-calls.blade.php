@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-calls', ['module_name' => 'lead', 'module_id' => $lead->id, 'client_type' => 'lead', 'client_id' => $lead->id, 'related_type' => null, 'related_id' => null])

@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-tasks', ['module_name' => 'account', 'module_id' => $account->id])

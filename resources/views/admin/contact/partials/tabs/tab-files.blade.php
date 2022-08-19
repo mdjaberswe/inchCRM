@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-files', ['module_name' => 'contact', 'module_id' => $contact->id])

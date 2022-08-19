@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-estimates', ['module_name' => 'account', 'module_id' => $account->id, 'account_id' => $account->id, 'contact_id' => null, 'deal_id' => null, 'project_id' => null])

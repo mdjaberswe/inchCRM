@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-items', ['linked' => $contact, 'linked_type' => 'contact', 'linked_id' => $contact->id])

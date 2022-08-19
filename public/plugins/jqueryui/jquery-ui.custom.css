@@ -1,0 +1,73 @@
+@import url('jquery-ui.min.css');
+
+.slider-range-container .ui-widget-content
+{
+	background: rgba(45, 135, 245, 1);
+	border-width: 0;
+	-webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.slider-range-container .ui-widget-header
+{
+	background: rgba(245, 200, 0, 1);
+	-webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+	box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+}
+
+.slider-range .hot-area
+{
+	height: 0.8em;
+	width: 0;
+	background: rgba(240, 110, 30, 1);
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 1;
+	border-radius: 0 3px 3px 0;
+}
+
+.ui-state-default, 
+.ui-widget-content .ui-state-default, 
+.ui-widget-header .ui-state-default, 
+.ui-button, 
+html .ui-button.ui-state-disabled:hover, 
+html .ui-button.ui-state-disabled:active
+{
+	background: rgba(255, 255, 255, 1);
+	border: 1px solid rgba(230, 230, 230, 1);
+}
+
+.ui-slider .ui-slider-handle
+{
+    width: 20px;
+    height: 30px;    
+    margin-left: -15px;
+    margin-top: -7px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ui-slider .ui-slider-handle::before
+{
+    width: 2px;
+    height: 15px;
+    background: rgba(155, 155, 155, 1);
+    border-radius: 3px;
+    content: '';
+    left: 5.75px;
+    position: absolute;
+    top: 7px;
+}
+
+.ui-slider .ui-slider-handle::after
+{
+	width: 2px;
+	height: 15px;
+	background: rgba(155, 155, 155, 1);
+	border-radius: 3px;
+	content: '';
+	left: 9.85px;
+	position: absolute;
+	top: 7px;
+}

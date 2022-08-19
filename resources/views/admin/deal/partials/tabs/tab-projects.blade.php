@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-projects', ['module_name' => 'deal', 'module_id' => $deal->id, 'account_id' => $deal->account_id, 'contact_id' => $deal->contact_id, 'deal_id' => $deal->id])

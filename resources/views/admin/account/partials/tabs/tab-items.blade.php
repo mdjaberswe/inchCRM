@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-items', ['linked' => $account, 'linked_type' => 'account', 'linked_id' => $account->id])

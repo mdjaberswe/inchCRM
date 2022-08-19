@@ -1,0 +1,55 @@
+.d3-funnel
+{
+	max-width: 100%!important;
+	min-width: 270px!important;
+	width: 75%;
+	height: 350px;
+	margin: 0;
+}
+
+.d3-funnel text
+{
+	font-family: 'Open Sans', sans-serif!important;
+	font-size: 11.5px!important;
+	font-weight: 550!important;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1599px)
+{
+	.d3-funnel
+	{
+		margin: 0;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{
+	.d3-funnel
+	{
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 319px)
+{
+	.d3-funnel
+	{
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px)
+{
+	.d3-funnel
+	{
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+	.d3-funnel
+	{
+		margin: 0 auto;
+	}
+}

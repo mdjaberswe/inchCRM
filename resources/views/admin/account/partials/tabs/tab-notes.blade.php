@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-notes', ['module' => $account, 'module_name' => 'account', 'module_id' => $account->id])

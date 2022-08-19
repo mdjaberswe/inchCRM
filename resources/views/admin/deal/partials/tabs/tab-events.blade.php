@@ -1,0 +1,1 @@
+@include('partials.tabs.tab-events', ['module_name' => 'deal', 'module_id' => $deal->id])
