@@ -1,8 +1,8 @@
 ## inchCRM - Open Source CRM Script
 
-inchCRM free CRM powers your customer support, sales, and marketing with easy-to-use features like chat, campaigns, deals, multiple currencies etc.
+inchCRM free CRM powers your customer support, sales, and marketing with easy-to-use features like chat, campaigns, deals, multiple currencies etc. inchCRM  built with Laravel 5.2
 
-## How to install ðŸ¤”
+## How to install 🤔
 (1). Simply [download](https://github.com/mdjaberswe/inchCRM/archive/master.zip) or clone the repo:
 ```
 git clone https://github.com/mdjaberswe/inchCRM.git
@@ -12,11 +12,16 @@ git clone https://github.com/mdjaberswe/inchCRM.git
 
 (3)  Extract the package (Check proper File and folder permissions).
 
+(4)  Migrate and seed: php artisan migrate:refresh --seed
+
+(5)  Login credentials: admin@demo.com
+                        123456
+
 ## Documentation
 
 Please check the folder: documentation/
 
-ðŸ‘‰ [Learn more about all the functions and features from our documentation](http://github.com/mdjaber.swe/docs/inchcrm/).
+👉 [Learn more about all the functions and features from our documentation](http://github.com/mdjaber.swe/docs/inchcrm/).
 
 ## License
 
