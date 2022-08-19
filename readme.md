@@ -13,11 +13,15 @@ git clone https://github.com/mdjaberswe/inchCRM.git
 (3)  Extract the package (Check proper File and folder permissions).
 
 (4)  Migration and seed into database.
-     php artisan migrate:refresh --seed
+```
+php artisan migrate:refresh --seed
+```
 
-(5)  Login credentials: 
-     admin@demo.com
-     123456
+(5)  Login credentials:
+```
+admin@demo.com
+123456
+```
 
 ## Documentation
 
